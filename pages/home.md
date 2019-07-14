@@ -1,20 +1,17 @@
 ---
-layout: layouts/home.njk
-title: Home
-date: 2016-01-01T00:00:00.000Z
+title: About
+date: 2019-07-14T05:00:00.000Z
 permalink: /
-navtitle: Home
+navtitle: About | Taylor Barnett
 tags:
   - nav
 ---
-# Welcome
+![](/static/img/img_3139.jpg)
 
-This is a template for building a simple blog website with the [Eleventy static site generator](https://www.11ty.io), with deployment to [Netlify](https://www.netlify.com).
 
-Includes [Netlify CMS](https://www.netlifycms.org) for WYSIWYG content editing, and [Netlify Forms](https://www.netlify.com/docs/form-handling) for processing your site's form data.
 
-For more info on installation and usage, view the [project repo]({{ pkg.repository.url }}) on Github.
+Taylor Barnett is the lead Community Engineer at [Stoplight](https://stoplight.io), a platform for designing, documenting, mocking-up, and testing web APIs. At Stoplight, she leads community and open source strategy and contributes to support, documentation, and content. She is passionate about building great developer experiences with an emphasis on empathy and inclusion within documentation, support, open source, and other community-focused projects. 
 
-Or click the button below to deploy your own copy of this project to Netlify.
+Previously, Taylor led developer community, documentation, and SDKs at Keen. She has spoken about developer experience, SDKs, inclusion, and building developer communities, including open source communities, at conferences such as O'Reilly OSCON, GlueCon, multiple API Strategy & Practices, API the Docs, AlterConf, DevRelCon, DevXcon, Hackcon, and various local meetups. 
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/danurbanowicz/eleventy-netlify-boilerplate&stack=cms)
+In her free time, she's either climbing rocks with friends, trying to find the funkiest sour beers, or hanging out with her corgi, [Yoda](https://instagram.com/yoda_atx).

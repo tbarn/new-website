@@ -6,7 +6,7 @@ navtitle: About | Taylor Barnett
 tags:
   - nav
 ---
-<img src="/static/img/img_3139.jpg" alt="Taylor Climbing in Clear Creek Canyon" width="500"/>
+<img src="/static/img/img_3139.jpg" alt="Taylor Climbing in Clear Creek Canyon" width="400"/>
 
 Taylor Barnett is the lead Community Engineer at [Stoplight](https://stoplight.io), a platform for designing, documenting, mocking-up, and testing web APIs. At Stoplight, she leads community and open source strategy and contributes to support, documentation, and content. She is passionate about building great developer experiences with an emphasis on empathy and inclusion within documentation, support, open source, and other community-focused projects. 
 

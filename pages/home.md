@@ -2,7 +2,7 @@
 title: About
 date: 2019-07-14T05:00:00.000Z
 permalink: /
-navtitle: About | Taylor Barnett
+navtitle: About
 tags:
   - nav
 ---

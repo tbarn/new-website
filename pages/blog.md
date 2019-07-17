@@ -8,6 +8,22 @@ tags:
 ---
 <img src="/static/img/taylorbarnettoscon.jpg" alt="Speaking at OSCON 2018" width="500"/>
 
+## Future talks
+
+Going to Infinity and Beyond Documentation with OpenAPI, [API City, Seattle, WA, September 5, 2019](https://2019.apicity.io/)
+
+I'm looking for speaking opportunities for fall/winter 2019.
+
+## Potential Topics
+
+* Intersection of Product and Developer Relations 
+* API Documentation Strategy 
+* Developer Experience 
+* OpenAPI Specification (Design, Mocking, Contract Testing, etc.) 
+* Empathy in Developer Relations and Documentation 
+* Building Developer Communities 
+* Privilege in Open Source
+
 ## Previous talks
 
 [Breaking Down Barriers to "Hello World,"](https://noti.st/tbarn/nYB5cI/breaking-down-barriers-to-hello-world) [DevRelCon](https://sf2019.devrel.net/), San Francisco, CA, 2019
@@ -55,18 +71,3 @@ Introduction to Web Development, University of MAD: The Annual Student Developer
 Open Hackathon Data, Hackcon, 2014
 
 Running an Inclusive Hackathon, Hackcon, 2013
-
-## Future talks
-
-Going to Infinity and Beyond Documentation with OpenAPI, [API City, Seattle, WA, September 5, 2019](https://2019.apicity.io/)
-
-I'm looking for speaking opportunities for fall/winter 2019.
-
-## Potential Topics
-
-* Intersection of Product and Developer Relations 
-* API Documentation Strategy 
-* Developer Experience 
-* OpenAPI Specification (Design, Mocking, Contract Testing, etc.) * Empathy in Developer Relations and Documentation 
-* Building Developer Communities 
-* Privilege in Open Source

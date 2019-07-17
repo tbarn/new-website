@@ -6,7 +6,7 @@ navtitle: Talks
 tags:
   - nav
 ---
-
+<img src="/static/img/taylorbarnettoscon.jpg" alt="Speaking at OSCON 2018" width="500"/>
 
 ## Previous talks
 
@@ -55,7 +55,6 @@ Introduction to Web Development, University of MAD: The Annual Student Developer
 Open Hackathon Data, Hackcon, 2014
 
 Running an Inclusive Hackathon, Hackcon, 2013
-
 
 ## Future talks
 

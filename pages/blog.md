@@ -16,13 +16,13 @@ I'm looking for speaking opportunities for fall/winter 2019.
 
 ## Potential Topics
 
+* Inclusive Documentation
 * Intersection of Product and Developer Relations 
 * API Documentation Strategy 
 * Developer Experience 
 * OpenAPI Specification (Design, Mocking, Contract Testing, etc.) 
 * Empathy in Developer Relations and Documentation 
-* Building Developer Communities 
-* Privilege in Open Source
+* Building Developer Communities
 
 ## Previous talks
 

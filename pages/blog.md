@@ -1,14 +1,14 @@
 ---
-title: Talks
+title: Speaking
 date: 2017-01-01T00:00:00.000Z
 permalink: /talks/index.html
-navtitle: Talks
+navtitle: Speaking
 tags:
   - nav
 ---
 <img src="/static/img/taylorbarnettoscon.jpg" alt="Speaking at OSCON 2018" width="500"/>
 
-## Future talks
+## Future Speaking Engagements
 
 I'm looking for speaking opportunities for 2020.
 
@@ -22,7 +22,7 @@ I'm looking for speaking opportunities for 2020.
 * Empathy in Developer Relations and Documentation 
 * Building Developer Communities
 
-## Previous talks
+## Previous Speaking Engagements
 
 [The Power of APIs](https://noti.st/tbarn/FykyMB/the-power-of-apis), [Open Austin November General Meeting](https://www.open-austin.org/), Austin, TX, 2019
 

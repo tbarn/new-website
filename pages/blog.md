@@ -14,9 +14,9 @@ I'm looking for speaking opportunities for 2020.
 
 ## Potential Topics
 
-* Inclusive Documentation
+* The Changing API Consumers Landscape
 * Intersection of Product and Developer Relations 
-* API Documentation Strategy 
+* API Documentation Strategy (Including Inclusivity)
 * Developer Experience 
 * OpenAPI Specification (Design, Mocking, Contract Testing, etc.) 
 * Empathy in Developer Relations and Documentation 

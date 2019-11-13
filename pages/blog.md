@@ -12,7 +12,7 @@ tags:
 
 Going to Infinity and Beyond Documentation with OpenAPI, [API City, Seattle, WA, September 5, 2019](https://2019.apicity.io/)
 
-I'm looking for speaking opportunities for fall/winter 2019.
+I'm looking for speaking opportunities for 2020.
 
 ## Potential Topics
 
@@ -25,6 +25,12 @@ I'm looking for speaking opportunities for fall/winter 2019.
 * Building Developer Communities
 
 ## Previous talks
+
+[The Power of APIs](https://noti.st/tbarn/FykyMB/the-power-of-apis), [Open Austin November General Meeting](https://www.open-austin.org/), Austin, TX, 2019
+
+[Keynote Panel: The Future of API Specifications](https://asc2019.sched.com/event/T8k6/keynote-panel-the-future-of-api-specifications-marc-andre-giroux-github-fran-mendez-asyncapi-initiative-taylor-barnett-transposit-kevin-swiber-software-engineering-leader-and-moderated-by-steven-willmot), [API Specifications Conference](https://apispecs.io), Vancouver, BC, 2019
+
+[Going to Infinity and Beyond Documentation with OpenAPI](https://noti.st/tbarn/Dbbd32/going-to-infinity-and-beyond-documentation-with-openapi-specification-api-city-edition), [API City](https://2019.apicity.io/), Seattle, WA, 2019
 
 [Breaking Down Barriers to "Hello World,"](https://noti.st/tbarn/nYB5cI/breaking-down-barriers-to-hello-world) [DevRelCon](https://sf2019.devrel.net/), San Francisco, CA, 2019
 

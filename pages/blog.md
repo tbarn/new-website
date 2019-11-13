@@ -10,8 +10,6 @@ tags:
 
 ## Future talks
 
-Going to Infinity and Beyond Documentation with OpenAPI, [API City, Seattle, WA, September 5, 2019](https://2019.apicity.io/)
-
 I'm looking for speaking opportunities for 2020.
 
 ## Potential Topics

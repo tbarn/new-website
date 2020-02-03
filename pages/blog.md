@@ -10,17 +10,18 @@ tags:
 
 ## Future Speaking Engagements
 
-I'm looking for speaking opportunities for 2020.
+Human-in-the-Loop DevOps, [DevNet Create](https://developer.cisco.com/devnetcreate/2020), March 10-11, 2020, Mountain View, CA 
 
 ## Potential Topics
 
+* Human-in-the-Loops DevOps (including On-Call Engineering and Incident Response)
+* Building Better Runbooks
 * The Changing API Consumers Landscape
 * Intersection of Product and Developer Relations 
-* API Documentation Strategy (Including Inclusivity)
+* Documentation Strategy (Including Inclusivity)
 * Developer Experience 
 * OpenAPI Specification (Design, Mocking, Contract Testing, etc.) 
-* Empathy in Developer Relations and Documentation 
-* Building Developer Communities
+* Empathy in Developer Relations and Documentation
 
 ## Previous Speaking Engagements
 

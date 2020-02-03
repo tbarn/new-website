@@ -65,6 +65,8 @@ Five Things I Wish I Knew in College, Hack the Hood meetup, San Francisco, CA, 2
 
 [Exploring Privilege in Open Source Communities, OSCON UK, 2016](./talks/privilege-and-open-source-communities.html)
 
+Keynote Panel: API Consumption Panel, API Strategy & Practice Conference, Austin, TX, 2015
+
 [Building Community with Developer Love, API Strategy & Practice Conference, Austin, TX, 2015](http://www.slideshare.net/taylorsoitgoes/building-community-with-developer-love-57894221)
 
 Various Intro to Event Data and Analytics Workshops, e.g. [Talkabot meetup](https://youtu.be/tBLWw-C3OdM), 2015 - 2017

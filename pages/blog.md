@@ -15,7 +15,8 @@ Human-in-the-Loop DevOps, [DevNet Create](https://developer.cisco.com/devnetcrea
 ## Potential Topics
 
 * Human-in-the-Loops DevOps (including On-Call Engineering and Incident Response)
-* Building Better Runbooks
+* Building Better Runbooks and Interactive Runbooks
+* "The Checklist Manifesto"
 * The Changing API Consumers Landscape
 * Intersection of Product and Developer Relations 
 * Documentation Strategy (Including Inclusivity)

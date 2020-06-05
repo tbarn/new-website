@@ -8,8 +8,6 @@ tags:
 ---
 <img src="/static/img/taylorbarnettoscon.jpg" alt="Speaking at OSCON 2018" width="500"/>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gH5ADVlAzOk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## Future Speaking Engagements
 
 Human-in-the-Loop DevOps, [DevNet Create](https://developer.cisco.com/devnetcreate/2020), March 10-11, 2020, Mountain View, CA 

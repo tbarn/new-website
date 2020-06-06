@@ -2,15 +2,13 @@
 title: Speaking
 date: 2017-01-01T00:00:00.000Z
 permalink: /talks/index.html
-navtitle: "Speaking:"
+navtitle: "Speaking"
 tags:
   - nav
 ---
 <img src="/static/img/taylorbarnettoscon.jpg" alt="Speaking at OSCON 2018" width="500"/>
 
 ## Future Speaking Engagements
-
-Human-in-the-Loop DevOps, [DevNet Create](https://developer.cisco.com/devnetcreate/2020), March 10-11, 2020, Mountain View, CA 
 
 ## Potential Topics
 
@@ -25,6 +23,8 @@ Human-in-the-Loop DevOps, [DevNet Create](https://developer.cisco.com/devnetcrea
 * Empathy in Developer Relations and Documentation
 
 ## Previous Speaking Engagements
+
+[Human-in-the-Loop DevOps](https://noti.st/tbarn/f4UjZF/human-in-the-loop-devops), Failover Conf, Online, 2020
 
 [The Power of APIs](https://noti.st/tbarn/FykyMB/the-power-of-apis), [Open Austin November General Meeting](https://www.open-austin.org/), Austin, TX, 2019
 

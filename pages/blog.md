@@ -10,21 +10,28 @@ tags:
 
 ## Future Speaking Engagements
 
+Human-in-the-Loop Automation, [Cisco DevNet Create](https://developer.cisco.com/devnetcreate/2020), October 13th, 2020
+
+Human-in-the-Loop DevOps, [All Day DevOps](https://www.alldaydevops.com/), November 12th, 2020
+
 ## Potential Topics
 
-* Human-in-the-Loops DevOps (including On-Call Engineering and Incident Response)
+* Human-in-the-Loops Automation (including On-Call Engineering and Incident Response)
 * Building Better Runbooks and Interactive Runbooks
 * "The Checklist Manifesto"
 * The Changing API Consumers Landscape
 * Intersection of Product and Developer Relations 
-* Documentation Strategy (Including Inclusivity)
+* Documentation Strategy
+* Why Your Documentation is Losing You Users
 * Developer Experience 
 * OpenAPI Specification (Design, Mocking, Contract Testing, etc.) 
 * Empathy in Developer Relations and Documentation
 
 ## Previous Speaking Engagements
 
-[Human-in-the-Loop DevOps](https://noti.st/tbarn/f4UjZF/human-in-the-loop-devops), Failover Conf, Online, 2020
+[Human-in-the-Loop Automation with Datadog](https://youtu.be/u2kNmbB7rAc), [Dash](https://www.dashcon.io/), Online, 2020
+
+[Human-in-the-Loop DevOps](https://noti.st/tbarn/f4UjZF/human-in-the-loop-devops), [Failover Conf](https://failover-conf.heysummit.com/), Online, 2020
 
 [The Power of APIs](https://noti.st/tbarn/FykyMB/the-power-of-apis), [Open Austin November General Meeting](https://www.open-austin.org/), Austin, TX, 2019
 

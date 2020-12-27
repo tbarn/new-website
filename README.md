@@ -1,6 +1,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8525dda9-8acb-4faa-bd2d-8965d8af9240/deploy-status)](https://app.netlify.com/sites/flamboyant-mccarthy-617175/deploys)
 
-# Taylor Barnett's Personal Website Based on Eleventy Netlify Boilerplate
+# Personal Website Based on Eleventy Netlify Boilerplate
 
 ## What is it?
 

@@ -2,9 +2,9 @@
 title: Talks
 date: 2017-01-01T00:00:00.000Z
 permalink: /talks/index.html
-navtitle: Talks
-tags:
-  - nav
+eleventyNavigation:
+  key: Talks
+  order: 1
 ---
 <img src="/static/img/taylorbarnettoscon.jpg" alt="Speaking at OSCON 2018" width="500"/>
 

@@ -2,8 +2,12 @@ const { DateTime } = require("luxon");
 const CleanCSS = require("clean-css");
 const UglifyJS = require("uglify-es");
 const htmlmin = require("html-minifier");
+const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 
 module.exports = function(eleventyConfig) {
+  // Eleventy Navigation https://www.11ty.dev/docs/plugins/navigation/
+  eleventyConfig.addPlugin(eleventyNavigationPlugin);
+
   eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
 
   // Date formatting (human readable)

@@ -2,9 +2,9 @@
 title: About
 date: 2019-07-14T05:00:00.000Z
 permalink: /
-navtitle: About
-tags:
-  - nav
+eleventyNavigation:
+  key: About
+  order: 0
 ---
 <img src="/static/img/img_3139.jpg" alt="Taylor Climbing in Clear Creek Canyon" width="400"/>
 

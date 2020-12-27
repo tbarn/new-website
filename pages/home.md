@@ -1,5 +1,5 @@
 ---
-title: About
+title: Taylor Barnett
 date: 2019-07-14T05:00:00.000Z
 permalink: /
 eleventyNavigation:

@@ -1,6 +1,7 @@
 ---
 title: 2020 Recap
 date: 2020-12-27T19:18:21.427Z
+author: Taylor Barnett
 summary: A recap of what I explored, wrote, and spoke about in 2020
 tags:
   - post

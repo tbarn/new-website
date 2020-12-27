@@ -55,6 +55,12 @@ Or in debug mode:
 DEBUG=* npx eleventy
 ```
 
+Or to start up a hot-reloading local web server: 
+```
+npx eleventy --serve
+```
+
+
 ## Bug reports, feature requests, etc
 
 This is an ongoing project and I welcome contributions. Feel free to submit a PR.

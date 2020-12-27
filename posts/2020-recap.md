@@ -7,6 +7,6 @@ tags:
   - post
 ---
 
-## January: 
+### January: 
 [20 Years Since Y2K: The Future of IT Operations with Chaos Engineering and Resilience](https://www.transposit.com/blog/2020.01.22-future-it-operations-with-chaos-engineering-and-resilience/) [Blog post]
 [Writing Runbook Documentation When You’re An SRE](https://www.transposit.com/blog/2020.01.30-writing-runbook-documentation-when-youre-an-sre/) [Blog post]

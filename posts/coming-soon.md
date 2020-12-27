@@ -1,6 +1,7 @@
 ---
 title: Coming Soon
 date: 2020-10-26T03:02:37.868Z
+author: Taylor
 summary: More posts coming soon
 tags:
   - post

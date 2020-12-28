@@ -67,8 +67,10 @@ And various other virtual events
 _(Honestly, there's too many for me to remember all of them, but here's a few...)_
 [This professional climbing coach wants to see her industry change](https://www.marketplace.org/2020/09/23/professional-climbing-coach-wants-her-industry-change/) - Maria Hollenhorst (Marketplace)
 [Net API Notes for 2020/10/02 - Governance - Issue 143](https://tinyletter.com/NetAPINotes/letters/net-api-notes-for-2020-10-02-governance-issue-143) - Matthew Reinbold
-[Stripe’s payments APIs: the first ten years](https://stripe.com/blog/payment-api-design) - Michelle Bu
+[Stripe’s payments APIs: the first ten years](https://stripe.com/blog/payment-api-design) - Michelle Bu (Stripe)
 [Complexity Has to Live Somewhere](https://ferd.ca/complexity-has-to-live-somewhere.html) - Fred Hebert
+[Revealing the Critical Role of Human Performance in Software](https://queue.acm.org/detail.cfm?id=3380776) - David D. Woods and John Allspaw (acmqueue)
+[Above the Line, Below the Line](https://queue.acm.org/detail.cfm?id=3380777) - Richard I. Cook, M.D. (acmqueue)
 [The Confessions of Marcus Hutchins, the Hacker Who Saved the Internet](https://www.wired.com/story/confessions-marcus-hutchins-hacker-who-saved-the-internet/) - Andy Greenberg (Wired)
 [What's a server](https://jvns.ca/blog/2019/12/26/whats-a-server/) - Julia Evans
 [Virtual Events Suck](https://aparker.io/posts/virtual-events-suck/) - Austin Parker

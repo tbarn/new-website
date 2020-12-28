@@ -9,10 +9,7 @@ eleventyNavigation:
 <img src="/static/img/taylorbarnettoscon.jpg" alt="Speaking at OSCON 2018" width="500"/>
 
 ## Future Speaking Engagements
-
-Human-in-the-Loop DevOps, [All Day DevOps](https://www.alldaydevops.com/), November 12th, 2020
-
-Why Humans Are Critical to Automation, [Puppetize Digital](https://digital.puppetize.com/s/landing-page4/home), November 19th, 2020
+Working on 2021 CFPs now, please reach out! 
 
 ## Potential Topics
 
@@ -29,9 +26,15 @@ Why Humans Are Critical to Automation, [Puppetize Digital](https://digital.puppe
 
 ## Previous Speaking Engagements
 
+[Why Humans Are Critical to Automation](https://youtu.be/hsLKbyyCXT4), [Puppetize Digital](https://digital.puppetize.com/s/landing-page4/home), Online, 2020
+
+Human-in-the-Loop DevOps, [All Day DevOps](https://www.alldaydevops.com/), November 12th, 2020
+
 [Human-in-the-Loop Automation](https://youtu.be/qm_9KgDaB2A), [Cisco DevNet Create](https://developer.cisco.com/devnetcreate/2020), Online, 2020
 
 [Human-in-the-Loop Automation with Datadog](https://youtu.be/u2kNmbB7rAc), [Dash](https://www.dashcon.io/), Online, 2020
+
+[MLH Fellowship Chat](https://fellowship.mlh.io/) on Working Remotely, Online, 2020
 
 [Human-in-the-Loop DevOps](https://noti.st/tbarn/f4UjZF/human-in-the-loop-devops), [Failover Conf](https://failover-conf.heysummit.com/), Online, 2020
 

@@ -33,12 +33,12 @@ tags:
 [Equinix Metal Developer Family Feud guest](https://www.twitch.tv/videos/839371446)
 
 ### <i class="fas fa-volume-up"></i> Talks:
-FailoverConf
+Failover Conf - [Human-in-the-Loop DevOps](https://noti.st/tbarn/f4UjZF/human-in-the-loop-devops)
 MLH Fellowship Chat on Working Remotely
-DASH
-DevNet Create
-Puppetize
-All Day DevOps
+Dash - [Human-in-the-Loop Automation with Datadog](https://youtu.be/u2kNmbB7rAc)
+Cisco DevNet Create - [Human-in-the-Loop Automation](https://youtu.be/qm_9KgDaB2A)
+Puppetize Digital - [Why Humans Are Critical to Automation](https://youtu.be/hsLKbyyCXT4)
+All Day DevOps - [Human-in-the-Loop DevOps, ADDO Edition](https://noti.st/tbarn/nH0zAJ)
 
 ### <i class="fas fa-book"></i> eBooks:
 Spectrum of Automation
@@ -49,8 +49,10 @@ Spectrum of Automation
 [Community Pulse - DevRel at the Foundation, Episode 51 guest](https://www.communitypulse.io/51-devrel-foundations/)
 
 ### <i class="fas fa-users"></i> Attended conferences:
-FailoverConf
-DASH
+Failover Conf
+Deserted Island DevOps
+API Days
+Dash
 DevOpsDays Chicago
 API Specifications Conference (Program chair)
 Chaos Conf

@@ -7,7 +7,7 @@ tags:
   - post
 ---
 
-### <i class="fas fa-pencil-alt" aria-label="Pencil icon for blog  post"></i> Blog posts:
+## <i class="fas fa-pencil-alt" aria-label="Pencil icon for blog  post"></i> Blog posts:
 [20 Years Since Y2K: left-pad, Heartbleed, and DevOps](https://www.transposit.com/blog/2020.01.15-left-pad-heartbleed-and-devops/)
 [20 Years Since Y2K: The Future of IT Operations with Chaos Engineering and Resilience](https://www.transposit.com/blog/2020.01.22-future-it-operations-with-chaos-engineering-and-resilience/) 
 [Writing Runbook Documentation When You’re An SRE](https://www.transposit.com/blog/2020.01.30-writing-runbook-documentation-when-youre-an-sre/) 
@@ -25,14 +25,14 @@ tags:
 [The Importance of Bi-Directional Incident Response Integrations](https://www.transposit.com/blog/bi-directional-incident-response-integrations/)
 [SREcon Americas 2020: Exposing the Human Factor](https://www.transposit.com/blog/srecon-americas-2020-exposing-the-human-factor/)
 
-### <i class="fas fa-file-alt"></i> Documentation:
+## <i class="fas fa-file-alt"></i> Documentation:
 [Transposit Docs Update](https://transposit.com/docs)
 
-### <i class="fab fa-twitch"></i> Streaming:
+## <i class="fab fa-twitch"></i> Streaming:
 [DevOps Party Games guest](https://devopspartygames.com/posts/Episode-2/)
 [Equinix Metal Developer Family Feud guest](https://www.twitch.tv/videos/839371446)
 
-### <i class="fas fa-volume-up"></i> Talks:
+## <i class="fas fa-volume-up"></i> Talks:
 Failover Conf - [Human-in-the-Loop DevOps](https://noti.st/tbarn/f4UjZF/human-in-the-loop-devops)
 [MLH Fellowship](https://fellowship.mlh.io/) Chat on Working Remotely
 Dash - [Human-in-the-Loop Automation with Datadog](https://youtu.be/u2kNmbB7rAc)
@@ -40,15 +40,15 @@ Cisco DevNet Create - [Human-in-the-Loop Automation](https://youtu.be/qm_9KgDaB2
 Puppetize Digital - [Why Humans Are Critical to Automation](https://youtu.be/hsLKbyyCXT4)
 All Day DevOps - [Human-in-the-Loop DevOps, ADDO Edition](https://noti.st/tbarn/nH0zAJ)
 
-### <i class="fas fa-book"></i> eBooks:
+## <i class="fas fa-book"></i> eBooks:
 Spectrum of Automation
 
-### <i class="fas fa-podcast"></i> Podcasts:
+## <i class="fas fa-podcast"></i> Podcasts:
 [Community Pulse Live - COVID-19 Retrospective](https://www.communitypulse.io/45covid19-bonus/) (Audience guest)
 [Community Pulse Live - A Talk About Racism, Privilege, and DevRel](https://www.communitypulse.io/48-cplive-summer2020/) (Audience guest)
 [Community Pulse - DevRel at the Foundation, Episode 51 guest](https://www.communitypulse.io/51-devrel-foundations/)
 
-### <i class="fas fa-users"></i> Attended conferences:
+## <i class="fas fa-users"></i> Attended conferences:
 Failover Conf
 Deserted Island DevOps
 API Days

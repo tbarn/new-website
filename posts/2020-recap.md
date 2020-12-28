@@ -48,7 +48,7 @@ Spectrum of Automation
 [Community Pulse Live - A Talk About Racism, Privilege, and DevRel](https://www.communitypulse.io/48-cplive-summer2020/) (Audience guest)
 [Community Pulse - DevRel at the Foundation, Episode 51 guest](https://www.communitypulse.io/51-devrel-foundations/)
 
-### Attended conferences:
+### <i class="fas fa-users"></i> Attended conferences:
 FailoverConf
 DASH
 DevOpsDays Chicago
@@ -57,3 +57,56 @@ Chaos Conf
 DevOps Enterprise Summit
 All Day DevOps
 SRECon
+And various other virtual events
+
+## <i class="fas fa-heart"></i> Some favorites: 
+
+### Favorite blog posts and articles: 
+_(Honestly, there's too many for me to remember all of them, but here's a few...)_
+[This professional climbing coach wants to see her industry change](https://www.marketplace.org/2020/09/23/professional-climbing-coach-wants-her-industry-change/) - Maria Hollenhorst (Marketplace)
+[Net API Notes for 2020/10/02 - Governance - Issue 143](https://tinyletter.com/NetAPINotes/letters/net-api-notes-for-2020-10-02-governance-issue-143) - Matthew Reinbold
+[Stripe’s payments APIs: the first ten years](https://stripe.com/blog/payment-api-design) - Michelle Bu
+[Complexity Has to Live Somewhere](https://ferd.ca/complexity-has-to-live-somewhere.html) - Fred Hebert
+[The Confessions of Marcus Hutchins, the Hacker Who Saved the Internet](https://www.wired.com/story/confessions-marcus-hutchins-hacker-who-saved-the-internet/) - Andy Greenberg (Wired)
+[What's a server](https://jvns.ca/blog/2019/12/26/whats-a-server/) - Julia Evans
+[Virtual Events Suck](https://aparker.io/posts/virtual-events-suck/) - Austin Parker
+[Why the founders of Crowns & Hops are running a brewing company with a mission](https://www.marketplace.org/2020/08/24/inglewoods-first-black-owned-brewery-crowns-hops-brewing/) - Andie Corban and Kai Ryssdal (Marketplace)
+[How we launched docs.github.com](https://github.blog/2020-07-02-how-we-launched-docs-github-com/) - Sarah Schneider
+[“There Are No Checks and Balances”: Two Texas Criminal Justice Experts on the Fight for Police Reform](https://www.texasmonthly.com/news/there-texas-criminal-justice-experts-police-reform/) - Amal Ahmed (Texas Monthly)
+[Climbing's Send-at-All-Costs Culture Almost Ruined Me](https://www.outsideonline.com/2411201/beth-rodden-climbing-body-image) - Beth Rodden (Outside)
+[Whiteness in the Outdoors](https://www.instagram.com/p/CAImIQCp5nb/) - Pattiegonia (in collaboration with others)
+
+
+### Favorite books:
+[Uncanny Valley](https://www.indiebound.org/book/9780374278014) - Anna Wiener
+[Why Fish Don't Exist: A Story of Loss, Love, and the Hidden Order of Life](https://www.indiebound.org/book/9781501160271) - Lulu Miller
+[You Never Forget Your First](https://www.indiebound.org/book/9780735224100) - Alexis Coe
+[So You Want to Talk About Race](https://www.indiebound.org/book/9781580058827) - Ijeoma Oluo (reread)
+
+### Favorite TV shows:
+[The Mandalorian](https://www.imdb.com/title/tt8111088/)
+[Schitt's Creek](https://www.imdb.com/title/tt3526078/)
+[The Flight Attendant](https://www.imdb.com/title/tt7569576/)
+[Love Life](https://www.imdb.com/title/tt10380768/)
+[One Day at a Time](https://www.imdb.com/title/tt5339440/)
+[Ugly Delicious](https://www.imdb.com/title/tt7907916/)
+[The Boys](https://www.imdb.com/title/tt1190634/)
+[Taste the Nation with Padma Lakshmi](https://www.imdb.com/title/tt12244950/)
+
+### Favorite podcasts:
+[Marketplace](https://www.marketplace.org/shows/marketplace/)
+[On the Media](https://www.wnycstudios.org/podcasts/otm)
+[It's Been a Minute with Sam Sanders](https://www.npr.org/podcasts/510317/its-been-a-minute-with-sam-sanders)
+[Reply All](https://gimletmedia.com/shows/reply-all)
+
+### Top 10 played songs:
+[Star Roving](https://youtu.be/ogCih4OavoY) - Slowdive
+[Burning Down the House](https://youtu.be/bgJ-hyzl6jg) - Talking Heads
+[Same (Once In A Lifetime Remix)](https://youtu.be/NkvVGVk1ghc) - Riders Against the Storm 
+[Kyoto](https://youtu.be/r4Q-XEck8dk) - HÆLOS
+[Final Days (Bonobo Remix)](https://youtu.be/xNMF8uuqvfA) - Michael Kiwanuka
+[Texas Sun](https://youtu.be/Whe7MURlKLw) - Khruangbin, Leon Bridges
+[Floors](https://youtu.be/2Fz95su8AJM) - Abhi The Nomad
+[The Root](https://youtu.be/0EcxK8tUd9c) - Magna Carda
+[Jist](https://youtu.be/8NGa3wIyWoY) - Boxed In
+[People Everywhere (Still Alive)](https://youtu.be/hHfx4xkCO4E) - Khruangbin

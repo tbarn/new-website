@@ -34,7 +34,7 @@ tags:
 
 ### <i class="fas fa-volume-up"></i> Talks:
 Failover Conf - [Human-in-the-Loop DevOps](https://noti.st/tbarn/f4UjZF/human-in-the-loop-devops)
-MLH Fellowship Chat on Working Remotely
+[MLH Fellowship](https://fellowship.mlh.io/) Chat on Working Remotely
 Dash - [Human-in-the-Loop Automation with Datadog](https://youtu.be/u2kNmbB7rAc)
 Cisco DevNet Create - [Human-in-the-Loop Automation](https://youtu.be/qm_9KgDaB2A)
 Puppetize Digital - [Why Humans Are Critical to Automation](https://youtu.be/hsLKbyyCXT4)

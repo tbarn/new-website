@@ -38,7 +38,7 @@ I worked on various new and updated docs pages for the Transposit docs.
 [Transposit Docs Update](https://transposit.com/docs)
 
 ## <i class="fab fa-twitch"></i> Streaming:
-This year I figured out what Twitch even is. I was a guest on a couple of shows this year, but I am interested in exploring streaming, including while writing code, in 2021. 
+This year I figured out what Twitch actually is. I was a guest on a couple of shows this year, but I am interested in exploring streaming, including while writing code, in 2021. 
 
 [DevOps Party Games guest](https://devopspartygames.com/posts/Episode-2/)
 [Equinix Metal Developer Family Feud guest](https://www.twitch.tv/videos/839371446)
@@ -54,9 +54,9 @@ Puppetize Digital - [Why Humans Are Critical to Automation](https://youtu.be/hsL
 All Day DevOps - [Human-in-the-Loop DevOps, ADDO Edition](https://noti.st/tbarn/nH0zAJ)
 
 ## <i class="fas fa-book"></i> eBooks:
-My team at work helped me turn my Spectrum of Automation blog series into an eBook. I drafted many of the graphics for it too. 
+My team at work helped me turn my Spectrum of Automation blog series into an eBook. I also drafted many of the graphics for it. 
 
-Spectrum of Automation
+Spectrum of Automation (let me know if you want a copy!)
 
 ## <i class="fas fa-podcast"></i> Podcasts:
 

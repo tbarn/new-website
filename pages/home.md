@@ -1,11 +1,12 @@
 ---
 title: Home
-summary: The personal website of Taylor Barnett
 date: 2019-07-14T05:00:00.000Z
 permalink: /
+summary: The personal website of Taylor Barnett
 eleventyNavigation:
   key: About
   order: 0
+main_image: /static/img/img_3139.jpg
 ---
 <img src="/static/img/img_3139.jpg" alt="Taylor Climbing in Clear Creek Canyon" width="400"/>
 

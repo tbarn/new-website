@@ -1,11 +1,12 @@
 ---
-title: Talks
-summary: A complete list of future and previous talks by Taylor Barnett
+title: Speaking
 date: 2017-01-01T00:00:00.000Z
 permalink: /speaking/index.html
+summary: A complete list of future and previous talks by Taylor Barnett
 eleventyNavigation:
   key: Speaking
   order: 1
+main_image: /static/img/taylorbarnettoscon.jpg
 ---
 <img src="/static/img/taylorbarnettoscon.jpg" alt="Speaking at OSCON 2018" width="500"/>
 

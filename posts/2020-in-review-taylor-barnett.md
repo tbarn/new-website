@@ -49,16 +49,16 @@ Spectrum of Automation
 [Community Pulse - DevRel at the Foundation, Episode 51 guest](https://www.communitypulse.io/51-devrel-foundations/)
 
 ## <i class="fas fa-users"></i> Attended conferences:
-Failover Conf
-Deserted Island DevOps
-API Days
-Dash
-DevOpsDays Chicago
-API Specifications Conference (Program chair)
-Chaos Conf
-DevOps Enterprise Summit
-All Day DevOps
-SRECon
+[Failover Conf](https://failover-conf.heysummit.com/)
+[Deserted Island DevOps](https://desertedisland.club/)
+[API Days](https://www.apidays.co/)
+[Dash](https://www.dashcon.io/2020/)
+[DevOpsDays Chicago](https://devopsdays.org/events/2020-chicago/welcome/)
+[API Specifications Conference](https://events.linuxfoundation.org/openapi-asc/) (Program chair)
+[Chaos Conf](https://www.chaosconf.io/)
+[DevOps Enterprise Summit](https://events.itrevolution.com/virtual/)
+[All Day DevOps](https://www.alldaydevops.com/)
+[SRECon](https://www.usenix.org/conference/srecon20americas)
 And various other virtual events
 
 ## <i class="fas fa-heart"></i> Some favorites: 

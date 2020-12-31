@@ -1,9 +1,9 @@
 ---
-title: Talks
+title: Speaking
 date: 2017-01-01T00:00:00.000Z
-permalink: /talks/index.html
+permalink: /speaking/index.html
 eleventyNavigation:
-  key: Talks
+  key: Speaking
   order: 1
 ---
 <img src="/static/img/taylorbarnettoscon.jpg" alt="Speaking at OSCON 2018" width="500"/>

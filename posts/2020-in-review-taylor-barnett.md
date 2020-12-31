@@ -80,7 +80,7 @@ I tried, I tried so hard. It was a struggle. That's all I have to say on that.
 And various other virtual events
 
 ## <i class="fas fa-tree"></i> Texas State Parks I visited:
-Normally, I'm a climber and you'll find me in Reimers Ranch Park on most weekends with a few out of state climbing trips. But in order to be extra catious with Covid-19, I decided to stop climbing since often I would be closely interacting with climbing partners outside of my household. Instead, I picked up more hiking and camping.
+Normally, I'm a climber and you'll find me in Reimers Ranch Park on most weekends along with a few out of state climbing trips. (And no Mexican NYE celebrations in El Potrero Chico.) But in order to be extra catious with Covid-19, I decided to stop climbing until later in 2021 since normally it involves closely interacting with climbing partners outside of my household. Instead, I picked up more hiking and camping.
 
 [Davis Mountains State Park](https://tpwd.texas.gov/state-parks/davis-mountains)
 [Lost Maples State Natural Area](https://tpwd.texas.gov/state-parks/lost-maples)
@@ -89,7 +89,7 @@ Normally, I'm a climber and you'll find me in Reimers Ranch Park on most weekend
 [Colorado Bend State Park](https://tpwd.texas.gov/state-parks/colorado-bend)
 [McKinney Roughs Nature Park](https://www.lcra.org/parks/mckinney-roughs-nature-park/) (not a state park)
 
-## <i class="fas fa-heart"></i> Some favorites:
+## <i class="fas fa-heart"></i> Some other favorites:
 
 ### Favorite blog posts and articles:
 Honestly, there's too many for me to remember all of them, but here's a few...

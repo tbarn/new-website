@@ -5,6 +5,7 @@ author: Taylor
 summary: A recap of what I explored, read, wrote, and spoke about in 2020
 tags:
   - post
+main_image: /static/img/2020-in-review.png
 ---
 2020, what a freakin' year. I honestly don't have the energy to write about it, but I am really good at making lists. Here are some lists of things I explored, read, wrote, and spoke about in 2020...
 

@@ -32,6 +32,8 @@ In the last few years, I've averaged from 6 to 12 blog posts a year for work. I 
 [The Importance of Bi-Directional Incident Response Integrations](https://www.transposit.com/blog/bi-directional-incident-response-integrations/)
 [SREcon Americas 2020: Exposing the Human Factor](https://www.transposit.com/blog/srecon-americas-2020-exposing-the-human-factor/)
 
+I did notice one interesting pattern: I did almost no long form writing in March and June. I blame Covid-19 and our nation's other epidemic, racism, for that. My brain was focused on things that mattered a lot more, and that's okay.
+
 ## <i class="fas fa-file-alt"></i> Documentation:
 I worked on various new and updated docs pages for the Transposit docs. 
 

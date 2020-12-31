@@ -1,11 +1,12 @@
 ---
 title: 2020 In Review
-summary: A recap of what I explored, read, wrote, and spoke about in 2020
 date: 2020-12-30T19:18:21.427Z
 author: Taylor
+summary: A recap of what I explored, read, wrote, and spoke about in 2020
 tags:
   - post
 ---
+2020, what a freakin' year. I honestly don't have the energy to write about it, but I am really good at making lists. Here are some lists of things I explored, read, wrote, and spoke about in 2020. 
 
 ## <i class="fas fa-pencil-alt" aria-label="Pencil icon for blog  post"></i> Blog posts:
 [20 Years Since Y2K: left-pad, Heartbleed, and DevOps](https://www.transposit.com/blog/2020.01.15-left-pad-heartbleed-and-devops/)
@@ -75,7 +76,7 @@ _(Honestly, there's too many for me to remember all of them, but here's a few...
 [What's a server](https://jvns.ca/blog/2019/12/26/whats-a-server/) - Julia Evans
 [Virtual Events Suck](https://aparker.io/posts/virtual-events-suck/) - Austin Parker
 [Why the founders of Crowns & Hops are running a brewing company with a mission](https://www.marketplace.org/2020/08/24/inglewoods-first-black-owned-brewery-crowns-hops-brewing/) - Andie Corban and Kai Ryssdal (Marketplace)
-[How we launched docs.github.com](https://github.blog/2020-07-02-how-we-launched-docs-github-com/) - Sarah Schneider
+[How we launched docs.github.com](https://github.blog/2020-07-02-how-we-launched-docs-github-com/) - Sarah Schneider (GitHub)
 [“There Are No Checks and Balances”: Two Texas Criminal Justice Experts on the Fight for Police Reform](https://www.texasmonthly.com/news/there-texas-criminal-justice-experts-police-reform/) - Amal Ahmed (Texas Monthly)
 [Climbing's Send-at-All-Costs Culture Almost Ruined Me](https://www.outsideonline.com/2411201/beth-rodden-climbing-body-image) - Beth Rodden (Outside)
 [Whiteness in the Outdoors](https://www.instagram.com/p/CAImIQCp5nb/) - Pattiegonia (in collaboration with others)
@@ -103,7 +104,7 @@ _(Honestly, there's too many for me to remember all of them, but here's a few...
 [It's Been a Minute with Sam Sanders](https://www.npr.org/podcasts/510317/its-been-a-minute-with-sam-sanders)
 [Reply All](https://gimletmedia.com/shows/reply-all)
 
-### Top 10 played songs:
+### Top 10 played songs (in order):
 [Star Roving](https://youtu.be/ogCih4OavoY) - Slowdive
 [Burning Down the House](https://youtu.be/bgJ-hyzl6jg) - Talking Heads
 [Same (Once In A Lifetime Remix)](https://youtu.be/NkvVGVk1ghc) - Riders Against the Storm 

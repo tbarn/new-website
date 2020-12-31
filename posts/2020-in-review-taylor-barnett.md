@@ -9,6 +9,7 @@ tags:
 2020, what a freakin' year. I honestly don't have the energy to write about it, but I am really good at making lists. Here are some lists of things I explored, read, wrote, and spoke about in 2020. 
 
 ## <i class="fas fa-pencil-alt" aria-label="Pencil icon for blog  post"></i> Blog posts:
+In the last few years, I've averaged from 6 to 12 blog posts a year for work. I hit a new high with 16 this year, as well as editing and giving feedback on dozens of teammates work.
 
 [20 Years Since Y2K: left-pad, Heartbleed, and DevOps](https://www.transposit.com/blog/2020.01.15-left-pad-heartbleed-and-devops/)
 [20 Years Since Y2K: The Future of IT Operations with Chaos Engineering and Resilience](https://www.transposit.com/blog/2020.01.22-future-it-operations-with-chaos-engineering-and-resilience/) 
@@ -28,15 +29,18 @@ tags:
 [SREcon Americas 2020: Exposing the Human Factor](https://www.transposit.com/blog/srecon-americas-2020-exposing-the-human-factor/)
 
 ## <i class="fas fa-file-alt"></i> Documentation:
+I worked on various new and updated docs pages for the Transposit docs. 
 
 [Transposit Docs Update](https://transposit.com/docs)
 
 ## <i class="fab fa-twitch"></i> Streaming:
+This year I figured out what Twitch even is. I was a guest on a couple of shows this year, but I am interested in exploring streaming, including while writing code, in 2021. 
 
 [DevOps Party Games guest](https://devopspartygames.com/posts/Episode-2/)
 [Equinix Metal Developer Family Feud guest](https://www.twitch.tv/videos/839371446)
 
 ## <i class="fas fa-volume-up"></i> Talks:
+Virtual talks, big oof. It was a rough year giving virtual talks, but I still managed to give my average number of talks. I've never wanted to do more than a talk every couple of months since I like to focus on other forms of content too. Although I'm probably going to write a couple new talks in 2021. 
 
 Failover Conf - [Human-in-the-Loop DevOps](https://noti.st/tbarn/f4UjZF/human-in-the-loop-devops)
 [MLH Fellowship](https://fellowship.mlh.io/) Chat on Working Remotely
@@ -46,6 +50,7 @@ Puppetize Digital - [Why Humans Are Critical to Automation](https://youtu.be/hsL
 All Day DevOps - [Human-in-the-Loop DevOps, ADDO Edition](https://noti.st/tbarn/nH0zAJ)
 
 ## <i class="fas fa-book"></i> eBooks:
+My team at work helped me turn my Spectrum of Automation blog series into an eBook. I drafted many of the graphics for it too. 
 
 Spectrum of Automation
 
@@ -70,20 +75,21 @@ Spectrum of Automation
 And various other virtual events
 
 ## <i class="fas fa-tree"></i> Texas State Parks I visited:
+Normally, I'm a climber and you'll find me in Reimers Ranch Park on most weekends with a few out of state climbing trips. But in order to be extra catious with Covid-19, I decided to stop climbing since often I would be closely interacting with climbing partners outside of my household. Instead, I picked up more hiking and camping.
+
 [Davis Mountains State Park](https://tpwd.texas.gov/state-parks/davis-mountains)
 [Lost Maples State Natural Area](https://tpwd.texas.gov/state-parks/lost-maples)
 [Bastrop State Park](https://tpwd.texas.gov/state-parks/bastrop)
 [Palmetto State Park](https://tpwd.texas.gov/state-parks/palmetto)
 [Colorado Bend State Park](https://tpwd.texas.gov/state-parks/colorado-bend)
-[McKinney Roughs Nature Park
-](https://www.lcra.org/parks/mckinney-roughs-nature-park/) (not a state park)
+[McKinney Roughs Nature Park](https://www.lcra.org/parks/mckinney-roughs-nature-park/) (not a state park)
 
 
 ## <i class="fas fa-heart"></i> Some favorites:
 
 ### Favorite blog posts and articles:
+Honestly, there's too many for me to remember all of them, but here's a few...
 
-*(Honestly, there's too many for me to remember all of them, but here's a few...)*
 [This professional climbing coach wants to see her industry change](https://www.marketplace.org/2020/09/23/professional-climbing-coach-wants-her-industry-change/) - Maria Hollenhorst (Marketplace)
 [Net API Notes for 2020/10/02 - Governance - Issue 143](https://tinyletter.com/NetAPINotes/letters/net-api-notes-for-2020-10-02-governance-issue-143) - Matthew Reinbold
 [Stripe’s payments APIs: the first ten years](https://stripe.com/blog/payment-api-design) - Michelle Bu (Stripe)
@@ -100,13 +106,15 @@ And various other virtual events
 [Whiteness in the Outdoors](https://www.instagram.com/p/CAImIQCp5nb/) - Pattiegonia (in collaboration with others)
 
 ### Favorite books:
+I was a lot better at listening to audiobooks at the start of the pandemic, but I still got in some good ones.
 
 [Uncanny Valley](https://www.indiebound.org/book/9780374278014) - Anna Wiener
-[Why Fish Don't Exist: A Story of Loss, Love, and the Hidden Order of Life](https://www.indiebound.org/book/9781501160271) - Lulu Miller
+[Why Fish Don't Exist: A Story of Loss, Love, and the Hidden Order of Life](https://www.indiebound.org/book/9781501160271) - Lulu Miller (one of my favorite books, ever)
 [You Never Forget Your First](https://www.indiebound.org/book/9780735224100) - Alexis Coe
 [So You Want to Talk About Race](https://www.indiebound.org/book/9781580058827) - Ijeoma Oluo (reread)
 
 ### Favorite TV shows:
+This is probably only 1/3 of the TV I watched in 2020. 
 
 [The Mandalorian](https://www.imdb.com/title/tt8111088/)
 [Schitt's Creek](https://www.imdb.com/title/tt3526078/)
@@ -118,13 +126,15 @@ And various other virtual events
 [Taste the Nation with Padma Lakshmi](https://www.imdb.com/title/tt12244950/)
 
 ### Favorite podcasts:
+I've literally listened to every single Marketplace podcast since mid-March. It was **heavy** at times, but it was a weird ritual that got me through it. I didn't really add very many podcasts to my normal listening. 
 
 [Marketplace](https://www.marketplace.org/shows/marketplace/)
 [On the Media](https://www.wnycstudios.org/podcasts/otm)
 [It's Been a Minute with Sam Sanders](https://www.npr.org/podcasts/510317/its-been-a-minute-with-sam-sanders)
 [Reply All](https://gimletmedia.com/shows/reply-all)
 
-### Top 10 played songs (in order):
+### Top 10 played songs (in order)
+Some old, some new, I don't really have anything insightful to say here. I took this from Spotify.
 
 [Star Roving](https://youtu.be/ogCih4OavoY) - Slowdive
 [Burning Down the House](https://youtu.be/bgJ-hyzl6jg) - Talking Heads

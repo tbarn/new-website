@@ -58,7 +58,7 @@ My team at work helped me turn my Spectrum of Automation blog series into an eBo
 
 Spectrum of Automation (let me know if you want a copy!)
 
-## <i class="fas fa-podcast"></i> Podcasts:
+## <i class="fas fa-podcast"></i> Podcast appearances:
 
 [Community Pulse Live - COVID-19 Retrospective](https://www.communitypulse.io/45covid19-bonus/) (Audience guest)
 [Community Pulse Live - A Talk About Racism, Privilege, and DevRel](https://www.communitypulse.io/48-cplive-summer2020/) (Audience guest)

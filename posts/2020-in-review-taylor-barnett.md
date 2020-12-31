@@ -6,7 +6,7 @@ summary: A recap of what I explored, read, wrote, and spoke about in 2020
 tags:
   - post
 ---
-2020, what a freakin' year. I honestly don't have the energy to write about it, but I am really good at making lists. Here are some lists of things I explored, read, wrote, and spoke about in 2020. 
+2020, what a freakin' year. I honestly don't have the energy to write about it, but I am really good at making lists. Here are some lists of things I explored, read, wrote, and spoke about in 2020...
 
 ## <i class="fas fa-pencil-alt" aria-label="Pencil icon for blog  post"></i> Blog posts:
 In the last few years, I've averaged from 6 to 12 blog posts a year for work. I hit a new high with 16 this year, as well as editing and giving feedback on dozens of teammates work.
@@ -61,9 +61,10 @@ Spectrum of Automation
 [Community Pulse - DevRel at the Foundation, Episode 51 guest](https://www.communitypulse.io/51-devrel-foundations/)
 
 ## <i class="fas fa-users"></i> Attended conferences:
+I tried, I tried so hard. It was a struggle. That's all I have to say on that. 
 
 [Failover Conf](https://failover-conf.heysummit.com/)
-[Deserted Island DevOps](https://desertedisland.club/)
+[Deserted Island DevOps](https://desertedisland.club/) 
 [API Days](https://www.apidays.co/)
 [Dash](https://www.dashcon.io/2020/)
 [DevOpsDays Chicago](https://devopsdays.org/events/2020-chicago/welcome/)
@@ -83,7 +84,6 @@ Normally, I'm a climber and you'll find me in Reimers Ranch Park on most weekend
 [Palmetto State Park](https://tpwd.texas.gov/state-parks/palmetto)
 [Colorado Bend State Park](https://tpwd.texas.gov/state-parks/colorado-bend)
 [McKinney Roughs Nature Park](https://www.lcra.org/parks/mckinney-roughs-nature-park/) (not a state park)
-
 
 ## <i class="fas fa-heart"></i> Some favorites:
 

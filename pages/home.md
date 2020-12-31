@@ -8,7 +8,7 @@ eleventyNavigation:
   order: 0
 main_image: /static/img/img_3139.jpg
 ---
-<img src="/static/img/img_3139.jpg" alt="Taylor Climbing in Clear Creek Canyon" width="400"/>
+<img src="/static/img/img_3139.jpg" alt="Taylor Climbing in Clear Creek Canyon" style="width: 80%;"/>
 
 [Responsibility](http://news.gallup.com/businessjournal/706/responsibility.aspx) | [Analytical](http://news.gallup.com/businessjournal/631/analytical.aspx) | [Harmony](http://news.gallup.com/businessjournal/676/harmony.aspx) | [Input](http://news.gallup.com/businessjournal/688/input.aspx) | [Communication](http://news.gallup.com/businessjournal/643/communication.aspx)
 

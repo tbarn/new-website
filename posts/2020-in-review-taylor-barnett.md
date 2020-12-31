@@ -8,7 +8,7 @@ tags:
 main_image: /static/img/2020-in-review.png
 ---
 
-![Text: 2020 In Review, with ferns in the background](/static/img/2020-in-review.png)
+<img src="/static/img/2020-in-review.png" alt="Text: 2020 In Review, with ferns in the background" style="width: 100%;" />
 
 2020, what a freakin' year. I honestly don't have the energy to write about it, but I am really good at making lists. Here are some lists of things I explored, read, wrote, and spoke about in 2020...
 
@@ -137,16 +137,7 @@ I've literally listened to every single Marketplace podcast since mid-March. It 
 [It's Been a Minute with Sam Sanders](https://www.npr.org/podcasts/510317/its-been-a-minute-with-sam-sanders)
 [Reply All](https://gimletmedia.com/shows/reply-all)
 
-### Top 10 played songs (in order)
-Some old, some new, I don't really have anything insightful to say here. I took this from Spotify.
+### Top Songs Played
+Some old, some new. 
 
-[Star Roving](https://youtu.be/ogCih4OavoY) - Slowdive
-[Burning Down the House](https://youtu.be/bgJ-hyzl6jg) - Talking Heads
-[Same (Once In A Lifetime Remix)](https://youtu.be/NkvVGVk1ghc) - Riders Against the Storm 
-[Kyoto](https://youtu.be/r4Q-XEck8dk) - HÆLOS
-[Final Days (Bonobo Remix)](https://youtu.be/xNMF8uuqvfA) - Michael Kiwanuka
-[Texas Sun](https://youtu.be/Whe7MURlKLw) - Khruangbin, Leon Bridges
-[Floors](https://youtu.be/2Fz95su8AJM) - Abhi The Nomad
-[The Root](https://youtu.be/0EcxK8tUd9c) - Magna Carda
-[Jist](https://youtu.be/8NGa3wIyWoY) - Boxed In
-[People Everywhere (Still Alive)](https://youtu.be/hHfx4xkCO4E) - Khruangbin
+<iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1EM7wW34jhWv5B" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>

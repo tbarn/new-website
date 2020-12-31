@@ -1,8 +1,8 @@
 ---
 title: 2020 Recap
+summary: A recap of what I explored, read, wrote, and spoke about in 2020
 date: 2020-12-27T19:18:21.427Z
 author: Taylor
-summary: A recap of what I explored, read, wrote, and spoke about in 2020
 tags:
   - post
 ---

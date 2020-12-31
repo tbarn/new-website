@@ -1,7 +1,7 @@
 ---
-title: 2020 Recap
+title: 2020 In Review
 summary: A recap of what I explored, read, wrote, and spoke about in 2020
-date: 2020-12-27T19:18:21.427Z
+date: 2020-12-30T19:18:21.427Z
 author: Taylor
 tags:
   - post

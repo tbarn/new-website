@@ -21,6 +21,7 @@ collections:
       - { label: "Summary", name: "summary", widget: "text" }
       - { label: "Tags", name: "tags", widget: "list", default: ["post"] }
       - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Main Image", name: "main_image", widget: "image"}
   # Our pages e.g. About
   - name: "pages"
     label: "Page"

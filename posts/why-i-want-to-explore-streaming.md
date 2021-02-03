@@ -6,6 +6,7 @@ summary: An exploration of why I want to explore technical streaming on Twitch
 tags:
   - post
 main_image: /static/img/caspar-camille-rubin-drl-cwqd6tm-unsplash.jpg
+permalink: "/blog/why-i-want-to-explore-streaming.html"
 ---
 \[In the sense of "digital gardening" this blog post is a work in progress. It might not even turn into a blog post but take a different form. Until then, here are my thoughts as follows. Be kind.]
 

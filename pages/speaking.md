@@ -11,6 +11,9 @@ main_image: /static/img/taylorbarnettoscon.jpg
 <img src="/static/img/taylorbarnettoscon.jpg" alt="Speaking at OSCON 2018" width="500"/>
 
 ## Future Speaking Engagements
+
+Opening Keynote: Glue Work Makes the Dream Work, [DevOpsDays Texas](https://devopsdays.org/events/2021-texas/welcome/), March 2nd and 3rd, 2021
+
 Working on 2021 CFPs now, please reach out! 
 
 ## Potential Topics

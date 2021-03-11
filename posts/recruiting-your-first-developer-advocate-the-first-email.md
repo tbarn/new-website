@@ -7,6 +7,8 @@ tags:
   - post
 main_image: /static/img/adam-solomon-whudozd5iyu-unsplash.jpg
 ---
+_[In the sense of "digital gardening" this blog post is a work in progress. It might not even turn into a blog post but take a different form. Until then, here are my thoughts as follows. Be kind.]_
+
 The messages often have a fairly basic format: 
 
 > "___ is hiring its first Developer Advocate and I wanted to reach out to you because your background looks great!"

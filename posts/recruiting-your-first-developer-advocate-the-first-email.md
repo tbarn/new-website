@@ -22,9 +22,9 @@ In the last four months, I get 5+ emails like this each month. Don't get me wron
 
 But none of these emails leave me feeling good about the field of Developer Relations. I wish they did. I wish they gave me hope that it is not only expanding, but maturing in all aspects. (Other things do give me that feeling though, just not these recruiter emails.) 
 
-As someone who will have been on a full time Developer Relations role for 6 years in June and exclusively at startups, I expect more from these emails and recruitment. The first person in a Developer Advocate role (and likely first in anything closely related to Developer Relations) at a company sets the tone of the practice in a BIG way. 
+As someone who will have been in a full time Developer Relations role, exclusively at startups, for 6 years in June, I expect more from these emails and recruitment. Maybe I am being silly, but I believe that 6 years of DevRel at startups is like 10+ in other roles at larger more established companies. This ain't my first rodeo. (This is my blog so I can say stuff like that.) The first person in a Developer Advocate role (and likely first in anything closely related to Developer Relations) at a company sets the tone of the practice in a BIG way. 
 
-In these emails, I want to know that. I want to know that the role is respected and not just a box that needs to be checked because you might be developer facing. Maybe I am being silly, but I believe that 6 years of DevRel at startups is like 10+ in other roles at larger more established companies. 
+In these emails, I want to know that. I want to know that the role is respected and not just a box that needs to be checked because you might be developer facing. 
 
 So I want to break down some of the things I think are important in first email contact from a candidate's perspective:
 

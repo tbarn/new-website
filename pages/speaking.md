@@ -12,15 +12,13 @@ main_image: /static/img/taylorbarnettoscon.jpg
 
 ## Future Speaking Engagements
 
-Opening Keynote: Glue Work Makes the Dream Work, [DevOpsDays Texas](https://devopsdays.org/events/2021-texas/welcome/), March 2nd and 3rd, 2021
-
-Working on 2021 CFPs now, please reach out! 
+Working on 2021 CFPs now (Q2 and later), please reach out! 
 
 ## Potential Topics
 
-* Human-in-the-Loops Automation (including On-Call Engineering and Incident Response)
+* Glue Code and the Developer/Operator Experience
+* Human-in-the-Loop Automation
 * Building Better Runbooks and Interactive Runbooks
-* "The Checklist Manifesto"
 * The Changing API Consumers Landscape
 * Intersection of Product and Developer Relations 
 * Documentation Strategy
@@ -31,9 +29,11 @@ Working on 2021 CFPs now, please reach out!
 
 ## Previous Speaking Engagements
 
+[Opening Keynote: Glue Work Makes the Dream Work](https://noti.st/tbarn/wAj998/glue-work-makes-the-dream-work), [DevOpsDays Texas](https://devopsdays.org/events/2021-texas/), March, 2021
+
 [Why Humans Are Critical to Automation](https://youtu.be/hsLKbyyCXT4), [Puppetize Digital](https://digital.puppetize.com/s/landing-page4/home), Online, 2020
 
-Human-in-the-Loop DevOps, [All Day DevOps](https://www.alldaydevops.com/), November 12th, 2020
+Human-in-the-Loop DevOps, [All Day DevOps](https://www.alldaydevops.com/), November, 2020
 
 [Human-in-the-Loop Automation](https://youtu.be/qm_9KgDaB2A), [Cisco DevNet Create](https://developer.cisco.com/devnetcreate/2020), Online, 2020
 

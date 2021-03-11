@@ -2,7 +2,8 @@
 title: "Recruiting your first Developer Advocate: The first email"
 date: 2021-03-11T03:30:00.000Z
 author: Taylor Barnett
-summary: Some thoughts on emails I've gotten about DevRel jobs and what I want to see
+summary: Some thoughts on emails I've gotten about Developer Advocate and
+  Developer Relations jobs and what I want to see
 tags:
   - post
 main_image: /static/img/adam-solomon-whudozd5iyu-unsplash.jpg

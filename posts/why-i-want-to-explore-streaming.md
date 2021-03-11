@@ -1,5 +1,5 @@
 ---
-title: Why I want to explore streaming (WIP)
+title: Why I want to explore streaming
 date: 2021-02-03T01:45:56.340Z
 author: Taylor Barnett
 summary: An exploration of why I want to explore technical streaming on Twitch

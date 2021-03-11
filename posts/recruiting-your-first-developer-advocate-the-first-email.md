@@ -32,7 +32,9 @@ In these emails, I want to know that. I want to know that the role is respected 
 - **Title bait and switch:** I've seen a recruiter reach out with a Developer Advocate role, but the job listing was for a "Community Manager." This is a red flag that the company doesn't actually know what they want, which often is not a great place to be going into unless you want to start a new job with an uphill battle. I've also seen emails with a mixture of title/roles, which shows a lack of understanding. I've known numerous Developer Advocates accept a job and get into a company to only realize their company isn't ready for their role. 
 
 I've been a bit negative, so here's an example of something good I've seen (with some summarization):
-> "I am working directly with our executive management team to hire for a Director of Developer Relations here at ___." Followed by some of my experience and what leadership team member they would like me to talk with. 
+> "I am working directly with our executive management team to hire for a Director of Developer Relations here at ___." 
+
+Followed by some of my experience and what leadership team member they would like me to talk with. 
 
 Right off the bat, this email shows me that they mean serious business. Not only is the title showing seniority, but that this is something important to leadership and potentially has leadership sponsorship. It's a role that is more than a checkbox. 
 

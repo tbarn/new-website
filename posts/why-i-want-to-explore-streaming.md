@@ -29,3 +29,11 @@ Towards the end of 2020, I was watching two people live coding an integration of
 Even when they were debugging something, I was like, I miss this! I miss bringing together two systems that would otherwise be incompatible and integrating them together while playing wack-a-mole with any challenges that come up. This is something I often do internally in my role, but not as often externally. 
 
 ## Where do I go from here?
+So I made a [tweet](https://twitter.com/taylor_atx/status/1356772122568327170):
+> I had the best/worst idea: live streaming writing documentation
+
+And after getting a lot of positive feedback back both publicly and privately about it, I'm going to try to make it happen in late March/April. I have a large set of documentation that I want to work on a work, so I have a lot of things I could write. 
+
+I'm thinking part lo-fi beats/part educational/part just coworking with me. I have no idea if it will be a snooze fest or just okay, but we will see! I already have a few people who would want to be guests on the show too.
+
+Note: I am going to keep updating this blog post as I explore this idea. 

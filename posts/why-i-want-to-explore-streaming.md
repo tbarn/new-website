@@ -36,4 +36,6 @@ And after getting a lot of positive feedback back both publicly and privately ab
 
 I'm thinking part lo-fi beats/part educational/part just coworking with me. I have no idea if it will be a snooze fest or just okay, but we will see! I already have a few people who would want to be guests on the show too.
 
+But before that, I am going to try to stream a little personal website development. Over the holiday break it was fun to work on, so I think it is a perfect candidate for something I want to get better at in my personal time while having a little fun and getting to learn about streaming on Twitch. We'll see how it goes!
+
 Note: I am going to keep updating this blog post as I explore this idea. 

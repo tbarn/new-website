@@ -24,7 +24,7 @@ I'll use this page to keep track of the funds. Please message me your receipts s
 
 # Donation totals:
 
-# [Texas Rising](https://txrising.org/donate/): ($0/200)
+# [Texas Rising](https://txrising.org/donate/): ($50/200)
 
 # [Texas Civil Rights Project](https://txcivilrights.org/take-action/contribute/) ($0/200)
 

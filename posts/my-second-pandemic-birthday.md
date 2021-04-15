@@ -2,7 +2,8 @@
 title: My Second Pandemic Birthday
 date: 2021-04-15T14:17:38.417Z
 author: Taylor Barnett
-summary: "For my birthday this year, I would really appreciate a donation! "
+summary: "For my birthday this year, I am asking for donations to Texas Rising
+  and Texas Civil Rights Project. "
 tags:
   - post
 main_image: /static/img/img_9250.jpg

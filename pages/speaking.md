@@ -12,7 +12,9 @@ main_image: /static/img/taylorbarnettoscon.jpg
 
 ## Future Speaking Engagements
 
-Working on 2021 CFPs now (Q2 and later), please reach out! 
+[Stressing systems in the new world panel](https://devopsdays.org/events/2021-seattle/program/panel), DevOpsDays Seattle, May 4, 2021
+
+Working on 2021 CFPs now (Q3 and later), please reach out!
 
 ## Potential Topics
 

@@ -41,4 +41,33 @@ collections:
           - { label: "Order", name: "order", widget: "number", default: 0 }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Main Image", name: "main_image", widget: "image"}
-
+  - name: "speaking"
+    label: "Speaking"
+    folder: "speaking"
+    create: true # Change to true to allow editors to create new pages
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - label: "Featured Image"
+        name: "featured_image"
+        widget: "image"     
+      - label: 'Future talks'
+        name: 'future_talks'
+        widget: 'list'
+        fields:
+          - { label: 'Talk name', name: 'talk_name', widget: 'string' }
+          - { label: 'Conference name', name: 'conference_name', widget: 'string' }
+          - { label: 'Conference URL', name: 'conference_url', widget: 'string' }
+          - { label: 'Location', name: 'location', widget: 'string'}
+          - { label: 'Date', name: 'date', widget: 'date' }        
+      - { label: "Potential topics", name: "topics", widget: "markdown"}
+      - label: 'Previous talks'
+        name: 'previous_talks'
+        widget: 'list'
+        fields:
+          - { label: 'Talk name', name: 'talk_name', widget: 'string' }
+          - { label: 'Talk URL', name: 'talk_url', widget: 'string' }
+          - { label: 'Conference name', name: 'conference_name', widget: 'string' }
+          - { label: 'Conference URL', name: 'conference_url', widget: 'string' }
+          - { label: 'Location', name: 'location', widget: 'string'}
+          - { label: 'Date', name: 'date', widget: 'date' }

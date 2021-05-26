@@ -14,6 +14,13 @@ main_image: /static/img/taylorbarnettoscon.jpg
 
 I'm working on Q3/Q4 talks now, please reach out if you are interested in having me speak at your event!
 
+**Developer Relations and Experience (DX):**
+* Intersection of Product and Developer Relations
+* Empathy in Developer Relations and Documentation
+* Introductory topics around developer experience 
+* Documentation strategy
+* Why Your Documentation is Losing Your Users
+
 **Operations:**
 * Glue Code and the Developer/Operator Experience
 * Human-in-the-Loop Automation
@@ -22,13 +29,6 @@ I'm working on Q3/Q4 talks now, please reach out if you are interested in having
 **APIs:**
 * The Changing API Consumers Landscape
 * OpenAPI Specification (Design, Mocking, Contract Testing, etc.) 
-
-**Developer Relations:**
-* Intersection of Product and Developer Relations
-* Empathy in Developer Relations and Documentation
-* Introductory topics around developer experience 
-* Documentation strategy
-* Why Your Documentation is Losing Your Users
 
 ## Previous Speaking Engagements
 

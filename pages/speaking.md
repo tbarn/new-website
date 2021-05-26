@@ -10,25 +10,25 @@ main_image: /static/img/taylorbarnettoscon.jpg
 ---
 <img src="/static/img/taylorbarnettoscon.jpg" alt="Speaking at OSCON 2018" width="500"/>
 
-_Working on 2021 CFPs now (Q3 and later), please reach out!_
-
 ## Potential Topics
 
-Operations:
+I'm working on Q3/Q4 talks now, please reach out if you are interested in having me speak at your event!
+
+**Operations:**
 * Glue Code and the Developer/Operator Experience
 * Human-in-the-Loop Automation
 * Building Better Runbooks
 
-APIs:
+**APIs:**
 * The Changing API Consumers Landscape
 * OpenAPI Specification (Design, Mocking, Contract Testing, etc.) 
 
-Developer Relations:
-* Intersection of Product and Developer Relations 
-* Documentation Strategy
-* Why Your Documentation is Losing You Users
-* Developer Experience 
+**Developer Relations:**
+* Intersection of Product and Developer Relations
 * Empathy in Developer Relations and Documentation
+* Introductory topics around developer experience 
+* Documentation strategy
+* Why Your Documentation is Losing Your Users
 
 ## Previous Speaking Engagements
 

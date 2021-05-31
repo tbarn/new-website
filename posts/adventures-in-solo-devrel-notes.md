@@ -39,14 +39,24 @@ I think one of the things that grinds my gears the most is when someone at an ea
 
 ![What value do you think DevRel brings? What does a succuesful DevReal team look like to you? What does company success look like in 12, 24 months? (Most important)](/static/img/flyless-weekly-adventures-in-solo-devrel.012.jpeg)
 
-![]()
+![](/static/img/flyless-weekly-adventures-in-solo-devrel-13-15.001.jpeg)
 
-![]()
+![](/static/img/flyless-weekly-adventures-in-solo-devrel-13-15.002.jpeg)
 
-![]()
+![](/static/img/flyless-weekly-adventures-in-solo-devrel-13-15.003.jpeg)
 
-![]()
+![](/static/img/flyless-weekly-adventures-in-solo-devrel.015.jpeg)
 
-![]()
+![](/static/img/flyless-weekly-adventures-in-solo-devrel.016.jpeg)
 
-![]()
+![](/static/img/flyless-weekly-adventures-in-solo-devrel.017.jpeg)
+
+![](/static/img/flyless-weekly-adventures-in-solo-devrel.018.jpeg)
+
+![](/static/img/flyless-weekly-adventures-in-solo-devrel.019.jpeg)
+
+![](/static/img/flyless-weekly-adventures-in-solo-devrel.020.jpeg)
+
+![](/static/img/flyless-weekly-adventures-in-solo-devrel.021.jpeg)
+
+![](/static/img/flyless-weekly-adventures-in-solo-devrel.022.jpeg)

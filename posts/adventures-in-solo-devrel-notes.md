@@ -7,6 +7,8 @@ tags:
   - post
 main_image: /static/img/flyless-weekly-adventures-in-solo-devrel.001.jpeg
 ---
+**\[This blog post is still a work in progress.]**
+
 A couple of weeks ago I presented a talk about doing Developer Relations solo (with no other Developer Relations focused team members or leadership) for the Flyless Weekly call. I wanted to share some of the slides from that talk. I have excluded some of them for various reasons (privacy, too spicy without deeper context, relevancy, etc.). 
 
 I wanted to focus the talk on tools that increase the success of this work, so that is what the majority of the following slides will cover. 

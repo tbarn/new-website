@@ -1,2 +1,7 @@
+---
+permalink: /robots.txt
+layout: null
+---
+
 User-agent: *
 Disallow:

@@ -10,13 +10,13 @@ main_image: /static/img/img_9250.jpg
 ---
 I've literally never written a blog post on my birthday, but this one is for a good cause. Please keep reading past my moans. 
 
-I could write diary entry about how I feel like the pandemic has taken my late 20s away from me. I was really looking forward to 2020 and 2021, not only is Spring my favorite season but I was going to climb in new states, led my first 5.9 route, give new talks in-person, visit new places like Mexico City, and so much more. But it is all on pause (still). It sort of feels like two whole Springs just didn't happen. I can see some sort of a light at the end of the tunnel, but we aren't there yet and it won't be Spring anymore. 
+I was really looking forward to 2020 and 2021, not only is Spring my favorite season but I was going to climb in new states, led my first 5.9 route, give new talks in-person, visit new places like Mexico City, and so much more. But it is all on pause (still). It sort of feels like two whole Springs just didn't happen. I can see some sort of a light at the end of the tunnel, but we aren't there yet and it won't be Spring anymore. 
 
 But I'm going to continue try turning it into something that feels a little less hopeless. 
 
 Last year, I raised over $500 (+ $200 match for me) for Central Texas Food Bank. It was the only way I felt like I could be useful at the time. I felt helpless. This year, I feel a little less helpless, but we are far from back to "normal." 
 
-I'll be honest, I was extremely indecisive on what organization to raise money for. As some may know, every other Spring in Texas the Texas legislature meets for their regular session of 140 long, like until 2am into the night long, calendar days. Every session there's usually a single issue I try to focus on since I can only do so much while working my full time tech job, but honestly this session feels like the greatest onslaught in recent years. It's voting rights, LGBTQIA+ rights, reproductive rights, human rights, and so much more. There's not just a few major bills targeted people, there are a dozen or more. And many of these major bills that are coming to committees and votes, but there's still time to do something! 
+I'll be honest, I was extremely indecisive on what organization to raise money for. As some may know, every other Spring in Texas the Texas legislature meets for their regular session of 140 long days, like until 2am into the night long, calendar days. Every session there's usually a single issue I try to focus on since I can only do so much while working my full time tech job, but honestly this session feels like the greatest onslaught in recent years. It's voting rights, LGBTQIA+ rights, reproductive rights, human rights, and so much more. There's not just a few major bills targeted people, there are a dozen or more. And many of these major bills that are coming to committees and votes, but there's still time to do something! 
 
 I want to support organizations that are on the ground at the Capital every day working on these issues, especially since I can't help much in-person this session. I've picked: [Texas Civil Rights Project](https://txcivilrights.org/take-action/contribute/) and [Texas Rising](https://txrising.org/donate/), a Texas Freedom Network project. For my birthday, I am trying to raise $200 for each and will match up to $100 in donations to each. 
 
@@ -28,7 +28,7 @@ I'll use this page to keep track of the funds. Please message me your receipts s
 
 # [Texas Civil Rights Project](https://txcivilrights.org/take-action/contribute/) ($200/200)
 
-## Why these organizations? 
+## Why these organizations?
 
 For many progressive Texans, it can be really hard to explain our relationship to this state that we love so much **and** does so much harm. These two organizations give me hope. Here's why: 
 
@@ -42,18 +42,18 @@ This session I've been very impressed by the work that the [Texas Civil Rights P
 
 **So, let's raise some funds!**
 
-_P.S. This song with 25+ Austin musicians is my theme song for the day. The video is lovely:_
+*P.S. This song with 25+ Austin musicians is my theme song for the day. The video is lovely:*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/blab-jaxZkc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 > Come walk with me, 
 > in a shared destiny where we live and love, 
 > in complete harmony. 
-
+>
 > Well you know the road is long, we got faith in this song; 
 > We gonna shine the light, 
 > keep the love shining bright through the fight.
-
+>
 > We will rise. 
 > Rise in this together, if you walk with me. 
 > We will rise.

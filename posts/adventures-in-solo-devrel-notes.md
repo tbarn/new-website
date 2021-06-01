@@ -57,7 +57,7 @@ I think one of the things that grinds my gears the most is when someone at an ea
 
 ![](/static/img/flyless-weekly-adventures-in-solo-devrel.019.jpeg)
 
-![](/static/img/flyless-weekly-adventures-in-solo-devrel.020.jpeg)
+![](/static/img/flyless-weekly-adventures-in-solo-devrel-21.001.jpeg)
 
 ![](/static/img/flyless-weekly-adventures-in-solo-devrel.021.jpeg)
 

@@ -12,25 +12,37 @@ main_image: /static/img/taylorbarnettoscon.jpg
 
 ## Potential Topics
 
-I'm working on Q3/Q4 talks now, please reach out if you are interested in having me speak at your event!
+I'm working on 2022 Q1/Q2 talks now, please reach out if you are interested in having me speak at your event!
+
+**Serverless, Databases, and Jamstack**
+* Serverless databases (and how they differ)
+* Making databases more accessible
+* Prisma + PlanetScale
+* Using databases in Jamstack applications
+* Dynamic data in Jamstack applications
 
 **Developer Relations and Experience (DX):**
 * Intersection of Product and Developer Relations
 * Empathy in Developer Relations and Documentation
 * Introductory topics around developer experience 
 * Documentation strategy
-* Why Your Documentation is Losing Your Users
-
-**Operations:**
-* Glue Code and the Developer/Operator Experience
-* Human-in-the-Loop Automation
-* Building Better Runbooks
+* Why your documentation is losing you users
 
 **APIs:**
 * The Changing API Consumers Landscape
 * OpenAPI Specification (Design, Mocking, Contract Testing, etc.) 
 
+**Etc:**
+* Glue Code and the Developer/Operator Experience
+* Human-in-the-Loop Automation
+
 ## Previous Speaking Engagements
+
+[Scaling Databases For Serverless World: A Chat With Sugu Sougoumarane](https://youtu.be/zhwNekUuYdk), Prisma Serverless Conference, November, 2021
+
+[Databases as Code with PlanetScale and Prisma](https://youtu.be/5JpKZfPx-1k), Next.js Conf, October, 2021
+
+[Keynote: The Search for Better Glue](https://www.longhornphp.com/sessions/#/the-search-for-better-glue), Longhorn PHP, October, 2021
 
 [Stressing systems in the new world panel](https://youtu.be/MkMoA82zpFE), DevOpsDays Seattle, May, 2021
 

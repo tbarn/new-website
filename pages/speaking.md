@@ -50,7 +50,7 @@ I'm working on 2022 Q1/Q2 talks now, please reach out if you are interested in h
 
 [Keynote: The Search for Better Glue](https://www.longhornphp.com/sessions/#/the-search-for-better-glue), [Longhorn PHP](https://www.longhornphp.com/), October, 2021
 
-[Stressing systems in the new world panel](https://youtu.be/MkMoA82zpFE), DevOpsDays Seattle, May, 2021
+[Panel: Stressing systems in the new world](https://youtu.be/MkMoA82zpFE), DevOpsDays Seattle, May, 2021
 
 [Opening Keynote: Glue Work Makes the Dream Work](https://noti.st/tbarn/wAj998/glue-work-makes-the-dream-work), [DevOpsDays Texas](https://devopsdays.org/events/2021-texas/), March, 2021
 

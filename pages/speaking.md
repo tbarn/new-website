@@ -40,15 +40,15 @@ I'm working on 2022 Q1/Q2 talks now, please reach out if you are interested in h
 
 
 
-[Learn with Jason: Serverless Databases With PlanetScale and Next.js](https://youtu.be/IUn2gdrPxeE), Learn with Jason stream, November, 2021
+[Learn with Jason: Serverless Databases With PlanetScale and Next.js](https://youtu.be/IUn2gdrPxeE), [Learn with Jason](https://www.learnwithjason.dev/), November, 2021
 
-[Scaling Databases For Serverless World: A Chat With Sugu Sougoumarane](https://youtu.be/zhwNekUuYdk), Prisma Serverless Conference, November, 2021
+[Scaling Databases For Serverless World: A Chat With Sugu Sougoumarane](https://youtu.be/zhwNekUuYdk), [Prisma Serverless Conference](https://www.prisma.io/serverless), November, 2021
 
-[Databases as Code with PlanetScale and Prisma](https://youtu.be/5JpKZfPx-1k), Next.js Conf, October, 2021
+[Databases as Code with PlanetScale and Prisma](https://youtu.be/5JpKZfPx-1k), [Next.js Conf](https://nextjs.org/conf), October, 2021
 
-[Panel Discussion: OpenAPI Initiative is Community](https://youtu.be/HIOdTkY09qQ), API Specifications Conference, September, 2021
+[Panel: OpenAPI Initiative is Community](https://youtu.be/HIOdTkY09qQ), [API Specifications Conference](https://events.linuxfoundation.org/openapi-asc/), September, 2021
 
-[Keynote: The Search for Better Glue](https://www.longhornphp.com/sessions/#/the-search-for-better-glue), Longhorn PHP, October, 2021
+[Keynote: The Search for Better Glue](https://www.longhornphp.com/sessions/#/the-search-for-better-glue), [Longhorn PHP](https://www.longhornphp.com/), October, 2021
 
 [Stressing systems in the new world panel](https://youtu.be/MkMoA82zpFE), DevOpsDays Seattle, May, 2021
 

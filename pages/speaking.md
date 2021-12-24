@@ -38,9 +38,15 @@ I'm working on 2022 Q1/Q2 talks now, please reach out if you are interested in h
 
 ## Previous Speaking Engagements
 
+
+
+[Learn with Jason: Serverless Databases With PlanetScale and Next.js](https://youtu.be/IUn2gdrPxeE), Learn with Jason stream, November, 2021
+
 [Scaling Databases For Serverless World: A Chat With Sugu Sougoumarane](https://youtu.be/zhwNekUuYdk), Prisma Serverless Conference, November, 2021
 
 [Databases as Code with PlanetScale and Prisma](https://youtu.be/5JpKZfPx-1k), Next.js Conf, October, 2021
+
+[Panel Discussion: OpenAPI Initiative is Community](https://youtu.be/HIOdTkY09qQ), API Specifications Conference, September, 2021
 
 [Keynote: The Search for Better Glue](https://www.longhornphp.com/sessions/#/the-search-for-better-glue), Longhorn PHP, October, 2021
 

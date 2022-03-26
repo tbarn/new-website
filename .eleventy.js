@@ -8,6 +8,8 @@ module.exports = function(eleventyConfig) {
   // Eleventy Navigation https://www.11ty.dev/docs/plugins/navigation/
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
 
+  eleventyConfig.setLiquidOptions({ dynamicPartials: false, strictFilters: false })
+
   eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
 
   // Date formatting (human readable)

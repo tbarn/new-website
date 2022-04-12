@@ -1,9 +1,9 @@
 ---
 title: 🎉 Birthday Fundraiser 🎉 
-date: 2022-04-10T05:00:00.000Z
+date: 2022-04-12T05:00:00.000Z
 permalink: /birthday-fundraiser/index.html
 layout: layouts/birthday-fundraiser.njk
-summary: The annual Birthday Fundraiser has arrived! It's my birthday (April 15th) and I want to raise some funds. 🎉 🎉 🎉
+summary: The annual Birthday Fundraiser has arrived! It's my birthday (April 15th) and I want to raise some funds
 main_image: /static/img/twitter-birthday-fundraiser-2022.png
 ---
 

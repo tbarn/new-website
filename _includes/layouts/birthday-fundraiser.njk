@@ -1,0 +1,14 @@
+---
+layout: layouts/base.njk
+section: contact
+---
+
+<h1>{{ title }}</h1>
+
+<script>
+  confetti({spread: 360, particleCount: 500, gravity: 0.9});
+</script>
+
+{{ layoutContent | safe }}
+
+{% include "components/donation-submission.njk" %}

@@ -1,0 +1,13 @@
+<h2>Donation receipt form</h2>
+<form name="donation-receipt-form" method="POST" enctype="multipart/form-data" netlify>
+  <input type="text" name="name" id="name" autocomplete="name" placeholder="Please enter your name or anonymous" required>
+  <input type="email" name="email" id="email" autocomplete="email" placeholder="(Optional) Your email address so I can thank you" title="The domain portion of the email address is invalid (the portion after the @)." pattern="^([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x22([^\x0d\x22\x5c\x80-\xff]|\x5c[\x00-\x7f])*\x22)(\x2e([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x22([^\x0d\x22\x5c\x80-\xff]|\x5c[\x00-\x7f])*\x22))*\x40([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x5b([^\x0d\x5b-\x5d\x80-\xff]|\x5c[\x00-\x7f])*\x5d)(\x2e([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x5b([^\x0d\x5b-\x5d\x80-\xff]|\x5c[\x00-\x7f])*\x5d))*(\.\w{2,})+$">
+  <input type="text" name="attribution" id="attribution" placeholder="(Optional) Twitter handle or name to thank publicly, I will not share other details">
+  <textarea name="message" id="message" placeholder="(Optional) Write a birthday message here" rows="7"></textarea>
+  <label for="file-upload">Upload a screenshot of your donation receipt</label>
+  <input type="file" id="file-upload" name="file-upload" accept="image/png, image/jpeg" required>
+  <button type="submit" name="submit">Send Message</button>
+  <small>The form request has a maximum size limit of 8 MB. File uploads time out after 30 seconds. Data is stored in Netlify.</small>
+</form>
+
+<img src="/static/img/birthday-fundraiser-thank-you.png" alt="Thank you! I really appreciate it. -Taylor">

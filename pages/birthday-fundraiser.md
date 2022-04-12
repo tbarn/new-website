@@ -40,7 +40,7 @@ Anonymous donations are welcome.
 
 I'll keep tally of the total throughout the day and share here. (Literally right here.)
 
-![](/static/img/dollars-raised-0.png)
+![Chart showing $0 raised](/static/img/dollars-raised-0.png)
 
 ## Other wonderful organizations
 

@@ -38,9 +38,9 @@ You give, I give. I'll be matching up to the first $500 in funds donated before 
 
 Anonymous donations are welcome.
 
-I'll keep tally of the total throughout the day and share here. (Last updated: 2020-04-13 @ 10:30pm CT)
+I'll keep tally of the total throughout the day and share here. (Last updated: 2020-04-14 @ 10:30pm CT)
 
-![Chart showing $270 raised](/static/img/dollars-raised-270.png)
+![Chart showing $370 raised](/static/img/dollars-raised.png)
 
 ## Other wonderful organizations
 

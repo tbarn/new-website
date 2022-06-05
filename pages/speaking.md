@@ -10,35 +10,15 @@ main_image: /static/img/taylorbarnettoscon.jpg
 ---
 <img src="/static/img/taylorbarnettoscon.jpg" alt="Speaking at OSCON 2018" width="500"/>
 
-## Potential Topics
+## Upcoming Speaking Engagements
 
-I'm working on 2022 Q1/Q2 talks now, please reach out if you are interested in having me speak at your event!
+Databases aren't history in the Jamstack, [CFE.dev online](https://cfe.dev/events/databases-and-the-jamstack/), June 23, 2022
 
-**Serverless, Databases, and Jamstack**
-* Serverless databases (and how they differ)
-* Making databases more accessible
-* Prisma + PlanetScale
-* Using databases in Jamstack applications
-* Dynamic data in Jamstack applications
+Ignite talk: What is a servless database?, [Devopsdays Minneapolis](https://devopsdays.org/events/2022-minneapolis/welcome/), August 1-2, 2022
 
-**Developer Relations and Experience (DX):**
-* Intersection of Product and Developer Relations
-* Empathy in Developer Relations and Documentation
-* Introductory topics around developer experience 
-* Documentation strategy
-* Why your documentation is losing you users
-
-**APIs:**
-* The Changing API Consumers Landscape
-* OpenAPI Specification (Design, Mocking, Contract Testing, etc.) 
-
-**Etc:**
-* Glue Code and the Developer/Operator Experience
-* Human-in-the-Loop Automation
+Feel free to [reach out](https://taylorbar.net/contact/) for future speaking opportunities!
 
 ## Previous Speaking Engagements
-
-
 
 [Learn with Jason: Serverless Databases With PlanetScale and Next.js](https://youtu.be/IUn2gdrPxeE), [Learn with Jason](https://www.learnwithjason.dev/), November, 2021
 

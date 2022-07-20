@@ -14,7 +14,7 @@ main_image: /static/img/taylorbarnettoscon.jpg
 
 Databases aren't history in the Jamstack, [CFE.dev online](https://cfe.dev/events/databases-and-the-jamstack/), June 23, 2022
 
-Ignite talk: What is a servless database?, [Devopsdays Minneapolis](https://devopsdays.org/events/2022-minneapolis/welcome/), August 1-2, 2022
+Ignite talk: What is a serverless database?, [Devopsdays Minneapolis](https://devopsdays.org/events/2022-minneapolis/welcome/), August 1-2, 2022
 
 Feel free to [reach out](https://taylorbar.net/contact/) for future speaking opportunities!
 

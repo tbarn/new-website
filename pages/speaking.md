@@ -21,7 +21,7 @@ Feel free to [reach out](https://taylorbar.net/contact/) for future speaking opp
 
 [Ignite talk: What is a serverless database?](https://noti.st/tbarn/mVfsIS/what-is-a-serverless-database), [Devopsdays Minneapolis](https://devopsdays.org/events/2022-minneapolis/welcome/), 2022
 
-Databases aren't history in the Jamstack, [CFE.dev online](https://cfe.dev/events/databases-and-the-jamstack/), 2022
+[Databases aren't history in the Jamstack](https://cfe.dev/events/databases-and-the-jamstack/), CFE.dev online, 2022
 
 [Learn with Jason: Serverless Databases With PlanetScale and Next.js](https://youtu.be/IUn2gdrPxeE), [Learn with Jason](https://www.learnwithjason.dev/), 2021
 

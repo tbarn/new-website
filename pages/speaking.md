@@ -15,31 +15,31 @@ main_image: /static/img/taylorbarnettoscon.jpg
 Feel free to [reach out](https://taylorbar.net/contact/) for future speaking opportunities!
 
 ## Previous Speaking Engagements
-[You used floppy disks, so what?](https://noti.st/tbarn/O1Eq32/you-used-floppy-disks-so-what), [Monktoberfest](https://monktoberfest.com/), 2023
+[You used floppy disks, so what?](https://noti.st/tbarn/O1Eq32/you-used-floppy-disks-so-what), [Monktoberfest](https://monktoberfest.com/), Portland, ME, 2023
 
-[Prisma Serverless Deep Dive, including a talk and panel](https://www.youtube.com/watch?v=p7qrsP12wWs), 2023
+[Prisma Serverless Deep Dive, including a talk and panel](https://www.youtube.com/watch?v=p7qrsP12wWs), Online, 2023
 
-[Ignite talk: What is a serverless database?](https://noti.st/tbarn/mVfsIS/what-is-a-serverless-database), [Devopsdays Minneapolis](https://devopsdays.org/events/2022-minneapolis/welcome/), 2022
+[Ignite talk: What is a serverless database?](https://noti.st/tbarn/mVfsIS/what-is-a-serverless-database), [Devopsdays Minneapolis](https://devopsdays.org/events/2022-minneapolis/welcome/), Minneapolis, MN, 2022
 
-[Databases aren't history in the Jamstack](https://cfe.dev/events/databases-and-the-jamstack/), CFE.dev online, 2022
+[Databases aren't history in the Jamstack](https://cfe.dev/events/databases-and-the-jamstack/), CFE.dev, Online, 2022
 
-[Learn with Jason: Serverless Databases With PlanetScale and Next.js](https://youtu.be/IUn2gdrPxeE), [Learn with Jason](https://www.learnwithjason.dev/), 2021
+[Learn with Jason: Serverless Databases With PlanetScale and Next.js](https://youtu.be/IUn2gdrPxeE), [Learn with Jason](https://www.learnwithjason.dev/), Online, 2021
 
-[Scaling Databases For Serverless World: A Chat With Sugu Sougoumarane](https://youtu.be/zhwNekUuYdk), [Prisma Serverless Conference](https://www.prisma.io/serverless), 2021
+[Scaling Databases For Serverless World: A Chat With Sugu Sougoumarane](https://youtu.be/zhwNekUuYdk), [Prisma Serverless Conference](https://www.prisma.io/serverless), Online, 2021
 
-[Databases as Code with PlanetScale and Prisma](https://youtu.be/5JpKZfPx-1k), [Next.js Conf](https://nextjs.org/conf), 2021
+[Databases as Code with PlanetScale and Prisma](https://youtu.be/5JpKZfPx-1k), [Next.js Conf](https://nextjs.org/conf), Online, 2021
 
-[Panel: OpenAPI Initiative is Community](https://youtu.be/HIOdTkY09qQ), [API Specifications Conference](https://events.linuxfoundation.org/openapi-asc/), 2021
+[Panel: OpenAPI Initiative is Community](https://youtu.be/HIOdTkY09qQ), [API Specifications Conference](https://events.linuxfoundation.org/openapi-asc/), Online, 2021
 
-[Keynote: The Search for Better Glue](https://www.longhornphp.com/sessions/#/the-search-for-better-glue), [Longhorn PHP](https://www.longhornphp.com/), 2021
+[Keynote: The Search for Better Glue](https://www.longhornphp.com/sessions/#/the-search-for-better-glue), [Longhorn PHP](https://www.longhornphp.com/), Austin, TX, 2021
 
 [Panel: Stressing systems in the new world](https://youtu.be/MkMoA82zpFE), DevOpsDays Seattle, 2021
 
-[Opening Keynote: Glue Work Makes the Dream Work](https://noti.st/tbarn/wAj998/glue-work-makes-the-dream-work), [DevOpsDays Texas](https://devopsdays.org/events/2021-texas/), 2021
+[Opening Keynote: Glue Work Makes the Dream Work](https://noti.st/tbarn/wAj998/glue-work-makes-the-dream-work), [DevOpsDays Texas](https://devopsdays.org/events/2021-texas/), Online, 2021
 
 [Why Humans Are Critical to Automation](https://youtu.be/hsLKbyyCXT4), [Puppetize Digital](https://digital.puppetize.com/s/landing-page4/home), Online, 2020
 
-Human-in-the-Loop DevOps, [All Day DevOps](https://www.alldaydevops.com/), 2020
+Human-in-the-Loop DevOps, [All Day DevOps](https://www.alldaydevops.com/), Online, 2020
 
 [Human-in-the-Loop Automation](https://youtu.be/qm_9KgDaB2A), [Cisco DevNet Create](https://developer.cisco.com/devnetcreate/2020), Online, 2020
 

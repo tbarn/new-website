@@ -1,7 +1,7 @@
 ---
 title: "Recruiting your first Developer Advocate: The first email"
 date: 2021-03-11T03:30:00.000Z
-author: Taylor Barnett
+author: Taylor Barnett-Torabi
 summary: Some thoughts on emails I've gotten about Developer Advocate and
   Developer Relations jobs and what I want to see
 tags:

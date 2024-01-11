@@ -1,7 +1,7 @@
 ---
 title: Adventures in Solo DevRel Notes
 date: 2021-05-31T19:30:02.141Z
-author: Taylor Barnett
+author: Taylor Barnett-Torabi
 summary: Selected slides from a recent talk for the Flyless Weekly call
 tags:
   - post

@@ -2,7 +2,7 @@
 title: Speaking
 date: 2017-01-01T00:00:00.000Z
 permalink: /speaking/index.html
-summary: A complete list of future and previous talks by Taylor Barnett
+summary: A complete list of future and previous talks by Taylor Barnett-Torabi
 eleventyNavigation:
   key: Speaking
   order: 1

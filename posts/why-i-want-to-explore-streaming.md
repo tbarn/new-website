@@ -1,7 +1,7 @@
 ---
 title: Why I want to explore streaming
 date: 2021-02-03T01:45:56.340Z
-author: Taylor Barnett
+author: Taylor Barnett-Torabi
 summary: An exploration of why I want to explore technical streaming on Twitch
 tags:
   - post

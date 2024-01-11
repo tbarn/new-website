@@ -1,7 +1,7 @@
 ---
 title: My Second Pandemic Birthday
 date: 2021-04-15T14:17:38.417Z
-author: Taylor Barnett
+author: Taylor Barnett-Torabi
 summary: "For my birthday this year, I am asking for donations to Texas Rising
   and Texas Civil Rights Project. "
 tags:

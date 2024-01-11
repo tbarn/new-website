@@ -8,14 +8,14 @@
 
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://taylorbar.net/">
+  <meta property="og:url" content="https://taylorbar.net/{{metadata.permalink}}">
   <meta property="og:title" content="{{ title or renderData.title or metadata.title }} | Taylor Barnett-Torabi">
   <meta property="og:description" content="{{ summary or renderData.summary or metadata.summary }}">
   <meta property="og:image" content="https://taylorbar.net{{ main_image }}?123">
 
   <!-- Twitter -->
   <meta property="twitter:card" content="summary_large_image">
-  <meta property="twitter:url" content="https://taylorbar.net/">
+  <meta property="twitter:url" content="https://taylorbar.net/{{metadata.permalink}}">
   <meta property="twitter:title" content="{{ title or renderData.title or metadata.title }} | Taylor Barnett-Torabi">
   <meta property="twitter:description" content="{{ summary or renderData.summary or metadata.summary }}">
   <meta property="twitter:image" content="https://taylorbar.net{{ main_image }}?123">

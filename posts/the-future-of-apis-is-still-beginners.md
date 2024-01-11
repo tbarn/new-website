@@ -43,7 +43,7 @@ Let’s take code examples as an example. (Obviously, I 💜 examples. Should I 
 
 Do you know who loves code examples? **Every developer**, not just beginners. Years ago, while I was working at Keen IO, a data analytics API company, we surveyed our community of users. The biggest thing they wanted more of was: Examples! These were often senior folks on engineering teams building on top of our API. It wasn’t just the early career folks. And it wasn’t like we had no code examples; we definitely did, but it was really important to all developers. 
 
-> _This, of course, assumes that you want other folks outside of your immediate team to use the API and view the API as a “product.” See Marsh’s post on [How simplistic API product thinking is holding back progress](http://sociotechnical.org/archives/evolving-api-product-thinking)._
+> _This, of course, assumes that you want other folks outside of your immediate team to use the API and view the API as a “product.” See Marsh’s post on [How simplistic API product thinking is holding back progress](https://sociotechnical.org/archive/evolving-api-product-thinking)._
 
 The solution is obvious on this one: Write more code examples. Bite-sized code examples that can be reused for different purposes and use cases. Group together common actions that an API consumer would want to do. It is a great way to show, not tell, how the API works and saves time for all developers. Instead of “beginner examples,” they are just “examples.”
 
@@ -95,6 +95,6 @@ Hopefully, this inspires you to focus on beginners in future API work. I want to
 Error codes are a blessing and a curse for clear communication. On the one hand, they are super helpful, but on the other hand, we have to devise a consistent way to communicate errors. I love the idea of having more universal machine-readable details of errors in HTTP response content, so it isn’t up to the user to figure out vague error messages or navigate custom error formats. 
 
 ### Some other blog posts I have enjoyed as part of API Futures: 
-- [How simplistic API product thinking is holding back progress](http://sociotechnical.org/archives/evolving-api-product-thinking) by Marsh Gardiner
+- [How simplistic API product thinking is holding back progress](https://sociotechnical.org/archive/evolving-api-product-thinking) by Marsh Gardiner
 
 I'll be adding more of these as I read more contributions! 

@@ -1,5 +1,5 @@
 ---
-title: "The future of APIs is (still) beginners"
+title: “The future of APIs is (still) beginners”
 date: 2024-01-11T00:01:00.000Z
 author: Taylor Barnett-Torabi
 summary: 
@@ -69,9 +69,9 @@ A more specific example I have seen with parameter names is terms that appear **
 
 #### Beginner’s mind failure
 
-Another way to look at this problem is that it is a “beginner’s mind failure.” Someone might think (or say): “It is perfectly clear to me, and I don’t understand how someone cannot understand this.” When you are at a more advanced level, you have to keep your mind open to a beginner's mind. My strategy to fight the beginner’s mind failure is to try to be a beginner at many different things and often. For example:
+Another way to look at this problem is that it is a “beginner’s mind failure.” Someone might think (or say): “It is perfectly clear to me, and I don’t understand how someone cannot understand this.” When you are at a more advanced level, you have to keep your mind open to a beginner’s mind. My strategy to fight the beginner’s mind failure is to try to be a beginner at many different things often. For example:
 
-- Try new APIs, tools, programming languages, and frameworks regularly, follow their onboarding, and see how they works.
+- Try new APIs, tools, programming languages, and frameworks regularly, follow their onboarding, and see how they work.
 - Learn about an area of the tech stack you do not usually work in. If you are a backend developer, create a small front-end-focused project. If you are a frontend developer, create a small backend-focused project. 
 - If you are in engineering, learn how to use a tool that the marketing or sales team uses.
 
@@ -110,6 +110,6 @@ Error codes are a blessing and a curse for clear communication. On the one hand,
 
 - [API Management is for everyone. It’s time to talk about it that way.](https://tyk.io/blog/api-management-is-for-everyone-api-experience/) by Emma Kriskinans - When I was in the API tooling space, I always thought “API Management” felt like the kind of term that most developers could care less about, even though they often care about many of its principles. I love this take on the term and what should be the target instead. 
 
-- [API Linting Levels](https://lornajane.net/posts/2024/api-linting-levels) by Lorna Mitchell - This post is near and dear to my heart because I helped launch the [Spectral](https://github.com/stoplightio/spectral) open source project, a flexible JSON/YAML linter for creating automated style guides, years ago. It’s awesome to see where API linting has gone since then. (I wrote the [first blog post on Spectral](https://blog.stoplight.io/introducing-spectral) back in 2019!)
+- [API Linting Levels](https://lornajane.net/posts/2024/api-linting-levels) by Lorna Mitchell - This post is near and dear to my heart because I helped launch the [Spectral](https://github.com/stoplightio/spectral) open source project, a flexible JSON/YAML linter for creating automated style guides, years ago. Back then, the whole process was still pretty rough. It’s awesome to see where API linting has gone since then. (I wrote the [first blog post on Spectral](https://blog.stoplight.io/introducing-spectral) back in 2019!)
 
-I'll be adding more of these as I read more contributions! 
+I’ll be adding more of these as I read more contributions! 

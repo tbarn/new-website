@@ -67,6 +67,16 @@ And honestly, I don’t blame them! I have experienced the curse. As API produce
 
 A more specific example I have seen with parameter names is terms that appear **nowhere** in a visual UI or other areas of the product started appearing in the public API. This is an excellent barometer for whether something is poorly named in an API and should be changed for an external user. (There are, of course, exceptions to this rule.)
 
+#### Beginner’s mind failure
+
+Another way to look at this problem is that it is a “beginner’s mind failure.” Someone might think (or say): “It is perfectly clear to me, and I don’t understand how someone cannot understand this.” My strategy to fight the beginner’s mind failure is to try to be a beginner at things often. For example:
+
+- Try new APIs, tools, programming languages, and frameworks regularly, follow their onboarding, and see how it works.
+- Learn about an area of the stack you do not usually work in. If you are a backend developer, create a small front-end-focused project. If you are a frontend developer, create a small backend-focused project. 
+- If you are in engineering, learn how to use a tool that the marketing or sales team uses.
+
+And it doesn’t even have to be within technology! I found that doing new things, like learning to ski as an adult, keeps you humble and thinking like a beginner. 
+
 #### Does it flow?
 
 My last example is a bit more fluffy: The flow. 🌊

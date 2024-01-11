@@ -1,5 +1,5 @@
 ---
-title: “The future of APIs is (still) beginners”
+title: The future of APIs is (still) beginners
 date: 2024-01-11T00:01:00.000Z
 author: Taylor Barnett-Torabi
 summary: 

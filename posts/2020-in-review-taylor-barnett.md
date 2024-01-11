@@ -1,7 +1,7 @@
 ---
 title: 2020 In Review
 date: 2020-12-30T19:18:21.427Z
-author: Taylor
+author: Taylor Barnett-Torabi
 summary: A recap of what I explored, read, wrote, and spoke about in 2020
 tags:
   - post

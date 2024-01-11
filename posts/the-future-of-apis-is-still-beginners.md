@@ -2,7 +2,7 @@
 title: The future of APIs is (still) beginners
 date: 2024-01-11T00:01:00.000Z
 author: Taylor Barnett-Torabi
-summary: 
+summary: Why it is essential to center APIs around beginners and how to do it, a blog post part of API Futures initiative
 tags:
   - post
 main_image: 
@@ -15,7 +15,7 @@ permalink: /posts/the-future-of-apis-is-still-beginners/
 
 In a [talk in 2019](https://noti.st/tbarn/nYB5cI/breaking-down-barriers-to-hello-world), I said, “Beginners’ struggles are **all** our struggles.” Now, five years later, I still find this entirely true. The future of APIs is (still) beginners. 
 
-In this blog post, I want to explore what a beginner is, why it is essential to center around beginners in APIs, and provide some examples and lessons based on real experiences in some of my API developer experience work. 
+In this blog post, I want to explore what a beginner is, why it is essential to center APIs around beginners, and provide some examples and lessons based on real experiences from my API developer experience work. 
 
 ## What is a beginner? 
 

@@ -5,7 +5,7 @@ author: Taylor Barnett-Torabi
 summary: Why it is essential to center APIs around beginners and how to do it, a blog post part of API Futures initiative
 tags:
   - post
-main_image: 
+main_image: /static/img/legos.jpg
 permalink: /posts/the-future-of-apis-is-still-beginners/
 ---
 
@@ -112,4 +112,4 @@ Error codes are a blessing and a curse for clear communication. On the one hand,
 
 - [API Linting Levels](https://lornajane.net/posts/2024/api-linting-levels) by Lorna Mitchell - This post is near and dear to my heart because I helped launch the [Spectral](https://github.com/stoplightio/spectral) open source project, a flexible JSON/YAML linter for creating automated style guides, years ago. Back then, the whole process was still pretty rough. It’s awesome to see where API linting has gone since then. (I wrote the [first blog post on Spectral](https://blog.stoplight.io/introducing-spectral) back in 2019!)
 
-I’ll be adding more of these as I read more contributions! 
+I’ll be adding more of these as I read more contributions!

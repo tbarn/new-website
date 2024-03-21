@@ -1,6 +1,6 @@
 ---
 title: For hire
-date: 2024-03-21T00:00:00.000Z
+date: 2024-03-22T00:00:00.000Z
 permalink: /for-hire/index.html
 summary: 
 ---
@@ -28,7 +28,7 @@ Let me help you build products (and relationships) that developers want using my
 
 You might be thinking, "But Taylor, you have never been a Product Manager!" You are right, but I have been doing the work of a Product Manager for years. I have been the voice of the developer community at every company I have worked at. I have been the one who has been talking to users, gathering feedback, and contributing to making decisions. I've worked closely with Engineering teams on everything from APIs to infrastructure-heavy features, and I am often the one sweating the details as we work toward launch. You can read more below about the [type of activities that I have enjoyed in the past](#previous-activities-that-i-have-enjoyed), many of which are the same as a Product Manager. 
 
-Empathy and feedback loops has been a core value in how I approach Developer Advocacy for as long as I can remember. I want to continue doing this in a Product role. 
+Empathy and feedback loops have been a core value in how I approach Developer Advocacy for as long as I can remember. I want to continue doing this in a Product role. 
 
 If you need to hear more about why I would be a good fit for a Product role, [let's chat](/contact)!
 
@@ -41,7 +41,9 @@ I've often found a disconnect between the product engineers, the Marketing team,
 
 I strive to close that gap by working with all of them while improving the developer experience and contributing to successful products. (I recently wrote about [some examples of these gaps in APIs](/posts/the-future-of-apis-is-still-beginners/#some-examples).) I'm a strong generalist who shines when doing the necessary senior+ glue work across the company that helps individual teams achieve their goals and contributes directly to the company's success. There's something I can offer that can help every single team.
 
-The reality is that not all Developer Advocacy roles are a fit for me right now. Because I want to focus on continuing to do cross-functional work, I will have less time available to write blog posts and documentation every week. Though I would still love to strategically do some of these when needed! For example, I might ship a blog post a month, not a week. So, if you have a Developer Advocacy role where content is a significant focus, we are probably not a good fit. 
+Not all Developer Advocacy roles are a fit for me right now. Because I want to focus on continuing to do cross-functional work, I will have less time available to write blog posts and documentation every week. However, I would still love to strategically do some of these when needed! For example, I might ship a blog post a month, not a week. So, if you have a Developer Advocacy role where content is a significant focus, we are probably not a good fit. 
+
+If this sounds like we align around a Developer Advocacy role you have in mind, [let's chat](/contact)!
 
 ### 3. Other roles
 
@@ -70,7 +72,7 @@ If there is a role that doesn't fit into one of these previous two categories bu
 - Redesigned a documentation sidebar into an action-based design to increase the discoverability of the documentation, including rearchitecting the organization of more than 100 documentation pages
 - Developed various framework and language-specific outreach strategies to target specific developer audiences
 
-I know this is a long list, and it is only part of the activities I have experience with and enjoy. I'm happy to deep dive into specific activities and talk about the others if you are interested!
+I know this is a long list, and it is only part of the activities I have experience with and enjoy. I'm happy to dive deep into specific activities and discuss the others if you are interested!
 
 ## Examples of my work
 

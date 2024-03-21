@@ -76,11 +76,11 @@ I know this is a long list, and it is only part of the activities I have experie
 
 - [API and OAuth applications](https://planetscale.com/blog/introducing-planetscale-api-and-oauth-applications)
 - [Webhooks](https://planetscale.com/blog/introducing-webhooks)
-- [Serverless driver]([https://planetscale.com/blog/introducing-the-planetscale-serverless-driver-for-javascript)
+- [Serverless driver](https://planetscale.com/blog/introducing-the-planetscale-serverless-driver-for-javascript)
 - [Schema recommendations](https://planetscale.com/blog/introducing-schema-recommendations)
 - [PlanetScale docs](https://planetscale.com/docs)
 - [Technical education blog post: Backward compatible database changes](https://planetscale.com/blog/backward-compatible-databases-changes)
-- [Open source project: Spectral](https://blog.stoplight.io/introducing-spectral), [GitHub: Spectral](https://github.com/stoplightio/spectral)
+- [Open source project: Spectral](https://blog.stoplight.io/introducing-spectral), [GitHub repo](https://github.com/stoplightio/spectral)
 - [Talk: Breaking Down Barriers to "Hello World"](https://noti.st/tbarn/nYB5cI/breaking-down-barriers-to-hello-world) 
 - [Ignite talk (20 slides, 15 seconds each): What is a serverless database?](https://noti.st/tbarn/mVfsIS/what-is-a-serverless-database)
 
@@ -104,7 +104,7 @@ _Taylor learns quickly and carries with her a sense of responsibility that is so
 
 --- 
 
-_"Taylor is a product strategist with a strong go-to-market acumen. She is always the voice of the developer/technical buyers. I have seen her successfully lead products from inception to launch, nurture OS communities, and seamlessly collaborate with sales, marketing, and support teams. She is the type of person I would feel lucky to work with again and would be an asset to any product team."_ - [Vanessa Fox, Head of Marketing at Readyset, former Senior Growth Marketing Manager](https://www.linkedin.com/in/vanessaburden/)
+_"Taylor is a product strategist with a strong go-to-market acumen. She is always the voice of the developer/technical buyers. I have seen her successfully lead products from inception to launch, nurture OS communities, and seamlessly collaborate with sales, marketing, and support teams. She is the type of person I would feel lucky to work with again and would be an asset to any product team."_ - [Vanessa Fox, Head of Marketing at Readyset, former Senior Growth Marketing Manager at PlanetScale](https://www.linkedin.com/in/vanessaburden/)
 
 --- 
 

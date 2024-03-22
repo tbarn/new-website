@@ -8,7 +8,7 @@ main_image: /static/img/taylor_2023.jpg
 
 # Available for hire
 
-Hey y'all! 👋 For the past ten years, I have worked in various user-facing roles at startups. Currently, I'm looking for my next opportunity at a developer-focused company. **I'm looking for a role where I can use my decade of developer-facing experience to help build technical products (and relationships) that developers will love.**
+Hey y'all! 👋 For the past ten years, I have worked in various technical roles at startups. Currently, I am looking for my next opportunity at a developer-focused company. **I am looking for a role where I can use my decade of developer-facing experience to help build technical products (and relationships) that developers will love.**
 
 Continue reading to learn more about what I am looking for! But first, why create a page like this?
 
@@ -76,6 +76,7 @@ Open source:
 
 Marketing and Brand:
 - Launched over 20 different platform features of various sizes, including working on areas such as messaging, product positioning, launch strategy and project management, blog posts, documentation, working with engineering teams at different stages of development, and coordinating with Sales, Marketing, and external Partner teams 
+- Coached engineers on how to write more effective blog posts, documentation, and talks
 - Jammed with Brand Design and Engineering teams on various projects to create a thoughtful developer brand
 - Developed various framework and language-specific outreach strategies to target specific developer audiences
 - Contributed to technical product copy to better communicate the product benefits, not just features

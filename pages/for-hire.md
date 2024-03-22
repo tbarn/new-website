@@ -2,7 +2,8 @@
 title: Taylor Barnett-Torabi is for hire
 date: 2024-03-21T00:00:00.000Z
 permalink: /for-hire/index.html
-summary: I'm looking for my next opportunity at a developer-focused company.
+summary: I'm looking for a role where I can use my decade of developer-facing experience to help build technical products (and relationships) that developers will love.
+main_image: /static/img/taylor_barnett_2021.jpeg
 ---
 
 # For hire
@@ -95,6 +96,7 @@ I know this is a long list, and it is only part of the activities I have experie
 - [PlanetScale docs](https://planetscale.com/docs)
 - [Technical education blog post: Backward compatible database changes](https://planetscale.com/blog/backward-compatible-databases-changes)
 - [Open source project: Spectral](https://blog.stoplight.io/introducing-spectral), [GitHub repo](https://github.com/stoplightio/spectral)
+- [Podcast: Screaming in the Cloud, Building Trust in the World of DevRel with Taylor Barnett](https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/building-trust-in-the-world-of-devrel-with-taylor-barnett/) (highly recommend!)
 - [Talk: Breaking Down Barriers to "Hello World"](https://noti.st/tbarn/nYB5cI/breaking-down-barriers-to-hello-world) 
 - [Ignite talk (20 slides, 15 seconds each): What is a serverless database?](https://noti.st/tbarn/mVfsIS/what-is-a-serverless-database)
 

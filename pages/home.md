@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Taylor Barnett-Torabi
 date: 2019-07-14T05:00:00.000Z
 permalink: /
 summary: The personal website of Taylor Barnett-Torabi

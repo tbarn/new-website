@@ -65,7 +65,7 @@ Product:
 - Designed user product journeys based on product data with a Sales team so they could [PQL](https://blog.hubspot.com/sales/pql) users
 - Worked with Engineering teams to ship new features and improvements
 - Worked with a Data team to better understand product usage and user behavior to guide developer advocacy efforts
-- Reimaged the onboarding experience to improve time to the first "Aha!" moment
+- Reimagined the onboarding experience to improve time to the first "Aha!" moment
 - Developed a user feedback program to better organize and communicate user feedback and discovered common themes and areas of improvement
 - Built relationships with developers to create a product community
 

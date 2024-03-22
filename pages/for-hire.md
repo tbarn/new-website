@@ -2,12 +2,12 @@
 title: Taylor Barnett-Torabi is for hire
 date: 2024-03-22T00:00:00.000Z
 permalink: /for-hire/index.html
-summary: I'm looking for my next opportunity at a developer-facing company.
+summary: I'm looking for my next opportunity at a developer-focused company.
 ---
 
 # For hire
 
-Hey y'all! 👋 I'm looking for my next opportunity at a developer-facing company. I've spent the last ten years at startups doing various roles. **I am looking for a role where I can use my decade of developer-facing experience to help build technical products (and relationships) that developers will love.**
+Hey y'all! 👋 I'm looking for my next opportunity at a developer-focused company. I've spent the last ten years at startups doing various roles. **I am looking for a role where I can use my decade of developer-facing experience to help build technical products (and relationships) that developers will love.**
 
 Continue reading to learn more about what I am looking for! But first, why create a page like this?
 
@@ -21,7 +21,7 @@ Table of contents:
 - [Testimonials from folks who have worked with me](#testimonials-from-folks-who-have-worked-with-me)
 - [Contact me](#contact-me)
 
-👉 _If you just want to see my past experience, check out my [LinkedIn](https://www.linkedin.com/in/taylorbarnett/)._
+👉 _If you just want to see my past experience, check out my [LinkedIn](https://www.linkedin.com/in/taylormbarnett/)._
 
 ## Types of roles I am considering
 

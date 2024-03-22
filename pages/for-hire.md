@@ -9,7 +9,9 @@ summary: I'm looking for my next opportunity at a developer-facing company.
 
 Hey y'all! 👋 I'm looking for my next opportunity at a developer-facing company. I've spent the last ten years at startups doing various roles, sometimes by title and sometimes by necessity. **I am looking for a role where I can use my decade of developer-facing experience to help build technical products (and relationships) that developers will love.**
 
-Continue reading to learn more about what I am looking for and how an opportunity you have or know of might help me find my next role! 
+Continue reading to learn more about what I am looking for! But first, why create a page like this?
+
+I've been thinking a lot about how to make the job search process more transparent and thought-out. This page is as much for you as it is for me. It's far from complete but more of a conversation starter. It will give you a good idea of what I am looking for and what I have to offer.
 
 Table of contents: 
 - [Types of roles I am considering](#types-of-roles-i-am-considering)
@@ -17,6 +19,7 @@ Table of contents:
 - [Examples of my recent work](#examples-of-my-recent-work)
 - [Qualities of teams and companies I am interested in](#qualities-of-teams-and-companies-i-am-interested-in)
 - [Testimonials from folks who have worked with me](#testimonials-from-folks-who-have-worked-with-me)
+- [Contact me](#contact-me)
 
 👉 _If you just want to see my past experience, check out my [LinkedIn](https://www.linkedin.com/in/taylorbarnett/)._
 
@@ -103,7 +106,7 @@ I'm looking for teams and companies that are **highly collaborative, low-ego, of
 
 ## Testimonials from folks who have worked with me
 
-To give a bit more of an idea of what it's like to work with me, here are some testimonials from folks that have first hand experience working with me:
+To give a bit more of an idea of what it's like to work with me, here are some testimonials from folks who have first-hand experience working with me:
 
 > _"Taylor is a passionate, intelligent, and hardworking engineer. I've worked with Taylor for several years and would hire her again in a heartbeat. Taylor has helped hundreds if not thousands of companies adopt and use our platform, both in person and in her work improving our SDKs, docs, guides, and developer community._
 
@@ -130,3 +133,7 @@ To give a bit more of an idea of what it's like to work with me, here are some t
 > _"I talk a lot about how to be effective with devrel and marketing — Taylor is exactly who I would recommend as the ideal hire to lead developer relations and dev marketing. She understands not just how to do this stuff, but how to coordinate lots of people to do it at scale."_ - [Jason Lengstorf, former VP of Developer Experience at Netlify](https://www.learnwithjason.dev/) ([link to Tweet](https://twitter.com/jlengstorf/status/1765536809000509533))
 
 ---
+
+## Contact me
+
+If you have a role that you think I might be a good fit for, or if you have any questions, please don't hesitate to reach out to me. If you fill out my [contact form](/contact) with your info, I will respond within 48 hours. 

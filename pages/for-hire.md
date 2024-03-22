@@ -22,7 +22,7 @@ Table of contents:
 
 ## Types of roles I am considering
 
-### 1. Product
+### Product
 
 Let me help you build products (and relationships) that developers want using my decade of developer community experience talking to developers. I love to **ship**, but I also **love talking to users** (from startups to large enterprises) and figuring out what they _really_ need so we are shipping the right products and features. (Ask about everything I helped ship in February!)  I've spent the last 8 years trying to fit Developer Relations ⬛️ into a Product-shaped ⚫️ hole, but I think it is now time for me to fit Product ⚫️ into a Product-shaped ⚫️ hole. (This seems obvious, but it's not when you first join Developer Relations. Ask me more about it!)
 
@@ -32,7 +32,7 @@ You might be thinking, "But Taylor, you have never been a Product Manager!" You 
 
 If you need to hear more about why I would be a good fit for a Product role, [let's chat](/contact)!
 
-### 2. Developer Advocacy with a *strong* focus on Product
+### Developer Advocacy with a *strong* focus on Product
 If you believe that Developer Relations is not all about content creation and external evangelism, we might be a good fit. 
 
 While I have experience in a wide range of Developer Relations-type activities from my time at startups, I'm looking for a role where I can be a **key stakeholder in product decisions and strategy while representing the community**.
@@ -45,7 +45,7 @@ Not all Developer Advocacy roles are a fit for me right now. Because I want to f
 
 If this sounds like we align around a Developer Advocacy role you have in mind, [let's chat](/contact)!
 
-### 3. Other roles
+### Other roles
 
 If there is a role that doesn't fit into one of these previous two categories but focuses on many of the same activities (see below), I am interested in hearing about it! I've worked in startups historically and understand the need to be flexible.
 

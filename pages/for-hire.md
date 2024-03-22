@@ -74,10 +74,10 @@ Open source:
 - Launched relevant open source projects for awareness and community benefit
 
 Marketing and Brand:
-- Collaborated with Marketing and Sales teams to work on strategy and messaging
+- Launched over 20 different platform features of various sizes, including working on areas such as messaging, product positioning, launch strategy and project management, blog posts, documentation, working with engineering teams at different stages of development, and coordinating with Sales, Marketing, and external Partner teams 
 - Jammed with Brand Design and Engineering teams on various projects to create a thoughtful developer brand
 - Developed various framework and language-specific outreach strategies to target specific developer audiences
-- Contributed to technical product copy using my technical background and knowledge of developers
+- Contributed to technical product copy to better communicate the product benefits, not just features
 
 Documentation: 
 - Led a documentation redesign to revamp the documentation homepage that improved wayfinding and navigation that will grow alongside the Product, as well as a significant migration of multiple product names and older documentation 

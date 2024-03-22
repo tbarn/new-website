@@ -40,11 +40,11 @@ If you believe that Developer Relations is not all about content creation and ex
 
 While I have experience in a wide range of Developer Relations-type activities from my time at startups, I'm looking for a role where I can be a **key stakeholder in product decisions and strategy while representing the community**.
 
-I've often found a disconnect between the Product Engineering, Marketing, Sales teams, and the users. (You also have the decision makers, buyers, and other personas to consider, but let's stay focused here.) 
+I've often found a disconnect between Product Engineering, Marketing, Sales teams, and the users. (You also have the decision makers, buyers, and other personas to consider, but let's stay focused here.) 
 
 I strive to close that gap by working with all of them while improving the developer experience and contributing to successful products. (I recently wrote about [some examples of these gaps in APIs](/posts/the-future-of-apis-is-still-beginners/#some-examples).) I'm a **strong generalist** who shines when doing the necessary senior+ glue work across the company that helps individual teams achieve their goals and contributes directly to the company's success. There's something I can offer that can help every single team.
 
-Not all Developer Advocacy roles are a fit for me right now. Because I want to focus on continuing to do cross-functional work, I will have less time available to write blog posts and documentation every week. However, I would still love to strategically do some of these when needed! For example, I might ship a blog post a month, not a week. So, if you have a Developer Advocacy role where content is a significant focus, we are probably not a good fit. 
+Not all Developer Advocacy roles are a fit for me right now. Since I want to focus on continuing to do cross-functional work and interacting more with users, I will have less time available to write blog posts and documentation every week. However, I would still love to strategically do _some_ content creation when it makes sense. For example, I might ship a blog post a month, not a week. So, if you have a Developer Advocacy role where content is a significant focus, we are probably not a good fit. 
 
 If this sounds like we align around a Developer Advocacy role you have in mind, [let's chat](/contact)!
 

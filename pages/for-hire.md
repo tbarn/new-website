@@ -1,5 +1,5 @@
 ---
-title: Available for hire | Taylor Barnett-Torabi
+title: Available for hire
 date: 2024-03-21T00:00:00.000Z
 permalink: /for-hire/index.html
 summary: I'm looking for a role where I can use my decade of developer-facing experience to help build technical products (and relationships) that developers will love.

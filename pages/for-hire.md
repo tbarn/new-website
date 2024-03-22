@@ -104,7 +104,9 @@ I'm happy to share more about my work on these projects and their impact.
 
 I'm interested in a wide range of developer products and platforms, including but not limited to infrastructure, APIs, developer tools, and data. I like areas that allow me to interact with a wide range of developers and have a large total addressable market. I'm looking to **impact millions of developers** and an even greater number of their users.
 
-I'm looking for teams and companies that are **highly collaborative, low-ego, offer opportunities for growth and mentorship, value empathy, written communication, and developer experience**.
+I'm looking for teams and companies that are **highly collaborative, low-ego, offer opportunities for growth and mentorship, value empathy, written communication, and developer experience**. 
+
+Also, I live and work remotely in Austin, Texas, so I am looking for a strong remote culture too. I don't mind going into an office a few times a month, but I work best in my home office or outside at a coffee shop. 
 
 ## Testimonials from folks who have worked with me
 

@@ -1,12 +1,12 @@
 ---
-title: Taylor Barnett-Torabi is for hire
+title: Available for hire | Taylor Barnett-Torabi
 date: 2024-03-21T00:00:00.000Z
 permalink: /for-hire/index.html
 summary: I'm looking for a role where I can use my decade of developer-facing experience to help build technical products (and relationships) that developers will love.
-main_image: /static/img/taylor_barnett_2021.jpeg
+main_image: /static/img/taylor_2023.jpg
 ---
 
-# For hire
+# Available for hire
 
 Hey y'all! 👋 For the past ten years, I have worked in various user-facing roles at startups. Currently, I'm looking for my next opportunity at a developer-focused company. **I'm looking for a role where I can use my decade of developer-facing experience to help build technical products (and relationships) that developers will love.**
 

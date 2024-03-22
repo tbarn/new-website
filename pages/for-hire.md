@@ -69,8 +69,9 @@ Product:
 - Built relationships with developers to create a product community
 
 Open source: 
-- Served on the outreach committee for an open-source project
-- Launched relevant open-source projects for awareness and community benefit
+- Served on the outreach committee for an open source project
+- Co-chaired and organized the API Specification Conference because standards are cool
+- Launched relevant open source projects for awareness and community benefit
 
 Marketing and Brand:
 - Collaborated with Marketing and Sales teams to work on strategy and messaging
@@ -81,6 +82,7 @@ Marketing and Brand:
 Documentation: 
 - Led a documentation redesign to revamp the documentation homepage that improved wayfinding and navigation that will grow alongside the Product, as well as a significant migration of multiple product names and older documentation 
 - Redesigned a documentation sidebar into an action-based design to increase the discoverability of the documentation, including rearchitecting the organization of more than 100 documentation pages
+- Written 100+ documentation pages over the last decade
 
 I know this is a long list, and it is only part of the activities I have experience with and enjoy. I'm happy to dive deep into specific activities and discuss the others if you are interested!
 

@@ -115,6 +115,10 @@ Also, I live and work remotely in Austin, Texas, so I am looking for a strong re
 
 To give a bit more of an idea of what it's like to work with me, here are some testimonials from folks who have first-hand experience working with me:
 
+> _"I had the pleasure of working with Taylor on a number of products and product launches at PlanetScale, one of which was our Public API launch. Taylor is always a delight to work with because she is incredibly thoughtful and user-focused in everything she does. For our Public API launch, this meant taking initiative in figuring out what APIs would be most useful to our users, how to design them in a user-friendly way, and having an attention to detail that could catch the smallest of errors in our documentation. Designing an API is no easy task, but Taylor made the process delightful!"_ - [Frances Thai, Software Engineer at PlanetScale](https://www.linkedin.com/in/frances-thai-a20b7491/)
+
+---
+
 > _"Taylor is a passionate, intelligent, and hardworking engineer. I've worked with Taylor for several years and would hire her again in a heartbeat. Taylor has helped hundreds if not thousands of companies adopt and use our platform, both in person and in her work improving our SDKs, docs, guides, and developer community._
 
 > _Taylor serves on the front line of our sales process. Every new developer signup gets an email from her asking if they have any technical questions or would like to pair code. There are very few people I would put in that position, but Taylor has the right mix of technical expertise, fearlessness, communication skills, and innate desire to help others._

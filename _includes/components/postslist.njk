@@ -3,7 +3,7 @@
 		<article{% if post.url == url %} data-current="current item"{% endif %}>
 			<h3>
 				{% if post.data.remoteURL %}
-					<a href="{{ post.data.remoteURL }}" target="_blank"> 
+					<a href="{{ post.data.remoteURL }}" target="_blank" rel="noopener noreferrer"> 
 						{{ post.data.title }} (external)
 					</a>
 				{% else %}

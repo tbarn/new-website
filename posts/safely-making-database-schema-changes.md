@@ -6,4 +6,5 @@ summary: How to prevent schema changes from being scary with database best pract
 tags:
   - post
 remoteURL: https://planetscale.com/blog/safely-making-database-schema-changes
+remoteBaseURL: planetscale.com
 ---

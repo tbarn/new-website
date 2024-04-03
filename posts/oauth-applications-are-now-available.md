@@ -6,4 +6,5 @@ summary: You can now build integrations that seamlessly authenticate with Planet
 tags:
   - post
 remoteURL: https://planetscale.com/blog/oauth-applications-are-now-available
+remoteBaseURL: planetscale.com
 ---

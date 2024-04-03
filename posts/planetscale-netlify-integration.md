@@ -6,4 +6,5 @@ summary: Learn how to use the new PlanetScale Netlify integration to simplify th
 tags:
   - post
 remoteURL: https://planetscale.com/blog/planetscale-netlify-integration
+remoteBaseURL: planetscale.com
 ---

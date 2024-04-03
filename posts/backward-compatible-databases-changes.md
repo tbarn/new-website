@@ -6,4 +6,5 @@ summary: Learn about safely using the expand, migrate, and contract pattern to m
 tags:
   - post
 remoteURL: https://planetscale.com/blog/backward-compatible-databases-changes
+remoteBaseURL: planetscale.com
 ---

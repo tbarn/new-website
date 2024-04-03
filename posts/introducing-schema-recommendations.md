@@ -6,4 +6,5 @@ summary: Automatically receive recommendations to improve database performance, 
 tags:
   - post
 remoteURL: https://planetscale.com/blog/introducing-schema-recommendations
+remoteBaseURL: planetscale.com
 ---

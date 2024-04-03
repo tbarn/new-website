@@ -6,4 +6,5 @@ summary: You can now enable foreign key constraints to enforce referential integ
 tags:
   - post
 remoteURL: https://planetscale.com/blog/foreign-key-constraints-are-now-generally-available
+remoteBaseURL: planetscale.com
 ---

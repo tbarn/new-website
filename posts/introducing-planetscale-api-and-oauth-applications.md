@@ -6,4 +6,5 @@ summary: Manage your databases programmatically with the PlanetScale API.
 tags:
   - post
 remoteURL: https://planetscale.com/blog/introducing-planetscale-api-and-oauth-applications
+remoteBaseURL: planetscale.com
 ---

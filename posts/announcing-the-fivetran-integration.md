@@ -6,4 +6,5 @@ summary: Learn how you can extract, load, and transform your PlanetScale data wi
 tags:
   - post
 remoteURL: https://planetscale.com/blog/announcing-the-fivetran-integration
+remoteBaseURL: planetscale.com
 ---

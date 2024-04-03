@@ -6,4 +6,5 @@ summary: You can now use foreign key constraints in PlanetScale databases.
 tags:
   - post
 remoteURL: https://planetscale.com/blog/announcing-foreign-key-constraints-support
+remoteBaseURL: planetscale.com
 ---

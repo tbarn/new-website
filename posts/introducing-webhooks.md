@@ -6,4 +6,5 @@ summary: You can now automatically trigger HTTP callbacks on events in PlanetSca
 tags:
   - post
 remoteURL: https://planetscale.com/blog/introducing-webhooks
+remoteBaseURL: planetscale.com
 ---

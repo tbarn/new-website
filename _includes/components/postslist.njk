@@ -4,7 +4,7 @@
 			<h3>
 				{% if post.data.remoteURL %}
 					<a href="{{ post.data.remoteURL }}" target="_blank" rel="noopener noreferrer"> 
-						{{ post.data.title }} (external)
+						{{ post.data.title }}
 					</a>
 				{% else %}
 					<a href="{{ post.url | url }}">
@@ -25,8 +25,14 @@
 				<time datetime="{{ post.date | machineDate }}">
 					<small>
 						{{ post.date | readableDate }} by {{ post.data.author }} 
-					</small>
+					</small>					
 				</time>
+				{% if post.data.remoteURL %}
+					<small>
+						on <a href="{{ post.data.remoteURL }}" target="_blank" rel="noopener noreferrer"> {{ post.data.remoteBaseURL }}</a>
+						<i class="fa-solid fa-arrow-up-right-from-square"></i>
+					</small>
+				{% endif %}				
 			</p>
 			{% if post.data.tags %}
 				<p>

@@ -11,8 +11,6 @@ main_image: /static/img/img_3139.jpg
 
 <img src="/static/img/img_3139.jpg" alt="Taylor Climbing in Clear Creek Canyon" style="width: 65%;"/>
 
-✨ Taylor is looking for her next opportunity, [read more](/for-hire)! ✨
-
 [Responsibility](http://news.gallup.com/businessjournal/706/responsibility.aspx) | [Analytical](http://news.gallup.com/businessjournal/631/analytical.aspx) | [Harmony](http://news.gallup.com/businessjournal/676/harmony.aspx) | [Input](http://news.gallup.com/businessjournal/688/input.aspx) | [Communication](http://news.gallup.com/businessjournal/643/communication.aspx)
 
 Most recently, Taylor Barnett-Torabi was a Staff Developer Advocate at [PlanetScale](https://planetscale.com), where she worked on projects across the whole business with a strong focus on developer education, product, and go-to-market efforts. Her passion lies in building great developer experiences, with a strong focus on user empathy within product, marketing, documentation, and other community-driven initiatives. 

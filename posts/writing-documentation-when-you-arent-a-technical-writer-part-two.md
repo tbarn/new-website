@@ -1,5 +1,5 @@
 ---
-title: "Writing Documentation When You Aren’t A Technical Writer — Part Two"
+title: "Writing Documentation When You Aren't A Technical Writer — Part Two"
 date: 2018-08-23T12:00:00.000Z
 author: Taylor Barnett-Torabi
 summary: "Avoiding oversimplification, writing good error messages, and having better word choice"

@@ -7,4 +7,5 @@ tags:
   - post
 remoteURL: https://medium.com/@taylor_atx/writing-documentation-when-you-arent-a-technical-writer-part-two-59997587cc2a
 remoteBaseURL: medium.com
+permalink: /posts/writing-documentation-when-you-arent-a-technical-writer-part-two
 ---

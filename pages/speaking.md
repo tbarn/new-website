@@ -19,6 +19,8 @@ Feel free to [reach out](https://taylorbar.net/contact/) for future speaking opp
 
 [Prisma Serverless Deep Dive, including a talk and panel](https://www.youtube.com/watch?v=p7qrsP12wWs), Online, 2023
 
+[Podcast: Screaming in the Cloud, Building Trust in the World of DevRel with Taylor Barnett](https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/building-trust-in-the-world-of-devrel-with-taylor-barnett/), 2023
+
 [Ignite talk: What is a serverless database?](https://noti.st/tbarn/mVfsIS/what-is-a-serverless-database), [Devopsdays Minneapolis](https://devopsdays.org/events/2022-minneapolis/welcome/), Minneapolis, MN, 2022
 
 [Databases aren't history in the Jamstack](https://cfe.dev/events/databases-and-the-jamstack/), CFE.dev, Online, 2022
@@ -36,6 +38,8 @@ Feel free to [reach out](https://taylorbar.net/contact/) for future speaking opp
 [Panel: Stressing systems in the new world](https://youtu.be/MkMoA82zpFE), DevOpsDays Seattle, 2021
 
 [Opening Keynote: Glue Work Makes the Dream Work](https://noti.st/tbarn/wAj998/glue-work-makes-the-dream-work), [DevOpsDays Texas](https://devopsdays.org/events/2021-texas/), Online, 2021
+
+[Podcast: Community Pulse, DevRel at the Foundation](https://www.communitypulse.io/51-devrel-foundations), 2020
 
 [Why Humans Are Critical to Automation](https://youtu.be/hsLKbyyCXT4), [Puppetize Digital](https://digital.puppetize.com/s/landing-page4/home), Online, 2020
 

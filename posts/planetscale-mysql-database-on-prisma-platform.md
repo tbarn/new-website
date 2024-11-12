@@ -7,5 +7,5 @@ tags:
   - post
 remoteURL: https://planetscale.com/blog/planetscale-mysql-database-on-prisma-platform
 remoteBaseURL: planetscale.com
-permalink: /posts/planetscale-mysql-database-on-prisma-platform
+permalink: /posts/planetscale-mysql-database-on-prisma-platform/
 ---

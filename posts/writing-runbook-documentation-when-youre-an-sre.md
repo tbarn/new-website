@@ -7,5 +7,5 @@ tags:
   - post
 remoteURL: https://www.transposit.com/devops-blog/sre/2020.01.30-writing-runbook-documentation-when-youre-an-sre/
 remoteBaseURL: transposit.com
-permalink: /posts/writing-runbook-documentation-when-youre-an-sre
+permalink: /posts/writing-runbook-documentation-when-youre-an-sre/
 ---

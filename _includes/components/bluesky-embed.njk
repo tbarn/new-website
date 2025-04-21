@@ -1,0 +1,226 @@
+{% macro blueskyEmbed(url) %}
+<div class="bluesky-embed">
+  <blockquote class="bluesky-post" cite="{{ url }}">
+    <p class="bluesky-loading">Loading Bluesky post...</p>
+  </blockquote>
+  
+  <script async src="https://cdn.jsdelivr.net/npm/@atproto/api@0.6.23/dist/bundle.js"></script>
+  <script>
+    // Execute in all environments
+    (function() {
+        window.addEventListener('load', async function() {
+          const postUrl = "{{ url }}";
+          const container = document.querySelector('.bluesky-post[cite="{{ url }}"]');
+          
+          try {
+            // Extract handle and post ID from URL
+            const urlParts = postUrl.split('/');
+            const handleIndex = urlParts.indexOf('profile') + 1;
+            const postIndex = urlParts.indexOf('post') + 1;
+            
+            if (handleIndex >= urlParts.length || postIndex >= urlParts.length) {
+              throw new Error('Invalid Bluesky URL format');
+            }
+            
+            const handle = urlParts[handleIndex];
+            const postId = urlParts[postIndex];
+            
+            // Fetch the post data from Bluesky API
+            if (window.AtprotoAPI) {
+              // Create a Bluesky client
+              const { BskyAgent } = window.AtprotoAPI;
+              const agent = new BskyAgent({ service: 'https://bsky.social' });
+              
+              // Connect to Bluesky (no auth needed for public posts)
+              await agent.login({ identifier: 'anonymous', password: 'anonymous' });
+              
+              // Get the post data
+              const postUri = `at://${handle}/app.bsky.feed.post/${postId}`;
+              const response = await agent.getPost({ uri: postUri });
+              
+              if (response && response.data) {
+                const postData = response.data;
+                const authorData = postData.author;
+                
+                // Format the post date if available
+                const formattedDate = postData.indexedAt ? 
+                  new Date(postData.indexedAt).toLocaleDateString(undefined, { 
+                    year: 'numeric', 
+                    month: 'short', 
+                    day: 'numeric' 
+                  }) : '';
+                
+                // Check if there are images in the post
+                let imagesHtml = '';
+                if (postData.embed && postData.embed.images) {
+                  imagesHtml = `
+                    <div class="bluesky-images">
+                      ${postData.embed.images.map(img => 
+                        `<img src="${img.fullsize}" alt="${img.alt || 'Post image'}" class="bluesky-image">`
+                      ).join('')}
+                    </div>
+                  `;
+                }
+                
+                // Create a Twitter-like embed with the fetched data
+                container.innerHTML = `
+                  <div class="bluesky-card">
+                    <div class="bluesky-header">
+                      <div class="bluesky-avatar">
+                        ${authorData.avatar ? 
+                          `<img src="${authorData.avatar}" alt="${authorData.displayName || authorData.handle}'s avatar" class="bluesky-avatar-img">` : 
+                          `<div class="bluesky-avatar-placeholder"></div>`
+                        }
+                      </div>
+                      <div class="bluesky-author">
+                        <span class="bluesky-name">${authorData.displayName || authorData.handle.split('.')[0]}</span>
+                        <span class="bluesky-handle">@${authorData.handle}</span>
+                      </div>
+                      <div class="bluesky-logo">
+                        <svg viewBox="0 0 24 24" aria-hidden="true" width="24" height="24">
+                          <path fill="#1185FE" d="M12 1.5C6.2 1.5 1.5 6.2 1.5 12S6.2 22.5 12 22.5 22.5 17.8 22.5 12 17.8 1.5 12 1.5zM8.5 10.5c1.25 0 2.25 1 2.25 2.25s-1 2.25-2.25 2.25-2.25-1-2.25-2.25S7.25 10.5 8.5 10.5zm7 0c1.25 0 2.25 1 2.25 2.25s-1 2.25-2.25 2.25-2.25-1-2.25-2.25 1-2.25 2.25-2.25z"></path>
+                        </svg>
+                      </div>
+                    </div>
+                    <div class="bluesky-content">
+                      <p>${postData.record.text}</p>
+                      ${imagesHtml}
+                      ${formattedDate ? `<div class="bluesky-date">${formattedDate}</div>` : ''}
+                    </div>
+                    <div class="bluesky-footer">
+                      <a href="${postUrl}" target="_blank" rel="noopener noreferrer" class="bluesky-link">View on Bluesky</a>
+                    </div>
+                  </div>
+                `;
+              }
+            }
+          } catch (error) {
+            console.error('Error rendering Bluesky post:', error);
+            container.innerHTML = `<div class="bluesky-error">
+              <p>Could not load Bluesky post.</p>
+              <a href="${postUrl}" target="_blank" rel="noopener noreferrer" class="bluesky-link">View on Bluesky</a>
+            </div>`;
+          }
+        });
+    })();
+  </script>
+  <style>
+    .bluesky-post {
+      border: 1px solid #e1e8ed;
+      border-radius: 12px;
+      padding: 0;
+      margin: 16px 0;
+      max-width: 550px;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      overflow: hidden;
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    }
+    .bluesky-card {
+      padding: 16px;
+    }
+    .bluesky-header {
+      display: flex;
+      align-items: center;
+      margin-bottom: 12px;
+    }
+    .bluesky-avatar {
+      width: 48px;
+      height: 48px;
+      margin-right: 12px;
+      border-radius: 50%;
+      overflow: hidden;
+    }
+    .bluesky-avatar-img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+    .bluesky-avatar-placeholder {
+      width: 100%;
+      height: 100%;
+      border-radius: 50%;
+      background-color: #1185FE;
+    }
+    .bluesky-author {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+    }
+    .bluesky-name {
+      font-weight: bold;
+      font-size: 15px;
+      color: #000;
+    }
+    .bluesky-handle {
+      color: #536471;
+      font-size: 14px;
+    }
+    .bluesky-logo {
+      width: 24px;
+      height: 24px;
+    }
+    .bluesky-content {
+      margin-bottom: 12px;
+      line-height: 1.4;
+      font-size: 15px;
+      color: #0f1419;
+    }
+    .bluesky-content p {
+      margin-top: 0;
+      margin-bottom: 12px;
+      white-space: pre-wrap;
+      word-wrap: break-word;
+    }
+    .bluesky-images {
+      margin: 8px 0 12px;
+      border-radius: 12px;
+      overflow: hidden;
+    }
+    .bluesky-image {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin-bottom: 2px;
+    }
+    .bluesky-image:last-child {
+      margin-bottom: 0;
+    }
+    .bluesky-date {
+      font-size: 14px;
+      color: #536471;
+      margin-top: 4px;
+      margin-bottom: 8px;
+    }
+    .bluesky-footer {
+      border-top: 1px solid #e1e8ed;
+      padding-top: 12px;
+      font-size: 14px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .bluesky-link {
+      color: #1185FE;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .bluesky-link:hover {
+      text-decoration: underline;
+    }
+    .bluesky-loading {
+      padding: 16px;
+      color: #536471;
+      font-style: italic;
+    }
+    .bluesky-error {
+      padding: 16px;
+      color: #536471;
+      border-top: 1px solid #e1e8ed;
+    }
+    .bluesky-error p {
+      margin-top: 0;
+      margin-bottom: 8px;
+    }
+  </style>
+</div>
+{% endmacro %}

@@ -1,0 +1,41 @@
+{% macro blueskyEmbed(url) %}
+<div class="bluesky-embed">
+  <blockquote class="bluesky-post">
+    <a href="{{ url }}" target="_blank" rel="noopener noreferrer">View this post on Bluesky</a>
+  </blockquote>
+  <script>
+    (function() {
+      // Simple Bluesky embed script
+      // This will fetch the post data and render it
+      const postUrl = "{{ url }}";
+      const container = document.currentScript.previousElementSibling;
+      
+      // Add loading state
+      container.innerHTML = '<p>Loading Bluesky post...</p>';
+      
+      // In a production environment, you would fetch the post data from the Bluesky API
+      // For now, we'll just provide a link to the post
+      container.innerHTML = `
+        <div class="bluesky-post-content">
+          <p><a href="${postUrl}" target="_blank" rel="noopener noreferrer">
+            View this Bluesky post
+          </a></p>
+          <p><em>Note: To see the full post content, click the link above.</em></p>
+        </div>
+      `;
+    })();
+  </script>
+  <style>
+    .bluesky-post {
+      border: 1px solid #e1e8ed;
+      border-radius: 12px;
+      padding: 16px;
+      margin: 16px 0;
+      background-color: #f8f9fa;
+    }
+    .bluesky-post-content {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", sans-serif;
+    }
+  </style>
+</div>
+{% endmacro %}

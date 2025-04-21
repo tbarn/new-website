@@ -1,0 +1,210 @@
+{% macro pdfEmbed(pdfPath, title, totalSlides) %}
+<div class="slideshow-container">
+  <h3>{{ title }}</h3>
+  
+  <!-- Slides container -->
+  <div class="slides-wrapper">
+    <div id="slide-display" class="slide-display">
+      <!-- Slides will be loaded here dynamically -->
+      <div class="slide-loading">Loading presentation...</div>
+    </div>
+  </div>
+  
+  <!-- Controls -->
+  <div class="slideshow-controls">
+    <button id="prev-slide" class="slide-btn">Previous</button>
+    <span id="slide-counter">Slide 1</span>
+    <button id="next-slide" class="slide-btn">Next</button>
+  </div>
+  
+  <p class="pdf-download">
+    <a href="{{ pdfPath }}" download>Download PDF</a>
+  </p>
+  <style>
+    .slideshow-container {
+      margin: 2rem 0;
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .slides-wrapper {
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      overflow: hidden;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+      background-color: #f8f8f8;
+      position: relative;
+      aspect-ratio: 16 / 9;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .slide-display {
+      width: 100%;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .slide-loading {
+      color: #666;
+      font-style: italic;
+    }
+    .slide {
+      max-width: 100%;
+      max-height: 100%;
+      object-fit: contain;
+      display: none;
+    }
+    .slide.active {
+      display: block;
+    }
+    .slideshow-controls {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-top: 1rem;
+      gap: 0.5rem;
+      flex-wrap: nowrap;
+      white-space: nowrap;
+    }
+    .slide-btn {
+      background-color: #6b46c1;
+      color: white;
+      border: none;
+      padding: 0.4rem 0.6rem;
+      min-width: 60px;
+      border-radius: 4px;
+      cursor: pointer;
+      font-weight: 500;
+      transition: background-color 0.2s;
+      line-height: 1.5;
+      vertical-align: middle;
+    }
+    .slide-btn:hover {
+      background-color: #553c9a;
+    }
+    .slide-btn:disabled {
+      background-color: #cbd5e0;
+      cursor: not-allowed;
+    }
+    #slide-counter {
+      font-size: 0.9rem;
+      color: #4a5568;
+      min-width: 90px;
+      text-align: center;
+      white-space: nowrap;
+      display: inline-block;
+      line-height: 1.5;
+      vertical-align: middle;
+    }
+    .pdf-download {
+      margin-top: 1rem;
+      text-align: right;
+    }
+    .pdf-download a {
+      display: inline-block;
+      padding: 0.5rem 1rem;
+      background-color: #f5f5f5;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      text-decoration: none;
+      color: #333;
+    }
+    .pdf-download a:hover {
+      background-color: #eee;
+    }
+  </style>
+</div>
+
+<script>
+  (function() {
+    // Wait for DOM to be fully loaded
+    document.addEventListener('DOMContentLoaded', function() {
+      const slideDisplay = document.getElementById('slide-display');
+      const prevBtn = document.getElementById('prev-slide');
+      const nextBtn = document.getElementById('next-slide');
+      const slideCounter = document.getElementById('slide-counter');
+      
+      // Configuration
+      const slidesBasePath = '{{ pdfPath | replace(".pdf", "/") }}';
+      const totalSlides = {{ totalSlides }}; // Total number of slides from the post
+      let currentSlide = 0;
+      
+      // Create slide elements
+      function createSlides() {
+        // Clear loading message
+        slideDisplay.innerHTML = '';
+        
+        // Create all slide images
+        for (let i = 0; i < totalSlides; i++) {
+          const slide = document.createElement('img');
+          slide.src = `${slidesBasePath}slide-${i}.jpg`; // Image files start at 0
+          slide.alt = `Slide ${i}`;
+          slide.className = i === 0 ? 'slide active' : 'slide';
+          slide.loading = 'lazy'; // Only load slides when needed
+          slideDisplay.appendChild(slide);
+        }
+        
+        // Handle loading errors
+        const slides = slideDisplay.querySelectorAll('.slide');
+        slides.forEach(slide => {
+          slide.onerror = function() {
+            this.src = '/static/img/slide-placeholder.jpg';
+            this.alt = 'Slide image not available';
+          };
+        });
+      }
+      
+      // Show a specific slide
+      function showSlide(slideNum) {
+        if (slideNum < 0) slideNum = 0;
+        if (slideNum >= totalSlides) slideNum = totalSlides - 1;
+        
+        // Hide all slides
+        const slides = slideDisplay.querySelectorAll('.slide');
+        slides.forEach(slide => slide.classList.remove('active'));
+        
+        // Show the selected slide
+        slides[slideNum].classList.add('active');
+        
+        // Update current slide number
+        currentSlide = slideNum;
+        updateCounter();
+        
+        // Update button states
+        prevBtn.disabled = currentSlide === 0;
+        nextBtn.disabled = currentSlide === totalSlides - 1;
+      }
+      
+      // Update the slide counter
+      function updateCounter() {
+        slideCounter.textContent = `Slide ${currentSlide} of ${totalSlides - 1}`;
+      }
+      
+      // Initialize the slideshow
+      createSlides();
+      showSlide(0); // Explicitly show the first slide (0th index)
+      updateCounter();
+      prevBtn.disabled = true; // Disable prev button at start
+      
+      // Set up button event listeners
+      prevBtn.addEventListener('click', function() {
+        showSlide(currentSlide - 1);
+      });
+      
+      nextBtn.addEventListener('click', function() {
+        showSlide(currentSlide + 1);
+      });
+      
+      // Add keyboard navigation
+      document.addEventListener('keydown', function(e) {
+        if (e.key === 'ArrowLeft') {
+          showSlide(currentSlide - 1);
+        } else if (e.key === 'ArrowRight') {
+          showSlide(currentSlide + 1);
+        }
+      });
+    });
+  })();
+</script>
+{% endmacro %}

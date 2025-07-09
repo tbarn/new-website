@@ -13,7 +13,7 @@ main_image: /static/img/img_3139.jpg
 
 [Responsibility](http://news.gallup.com/businessjournal/706/responsibility.aspx) | [Analytical](http://news.gallup.com/businessjournal/631/analytical.aspx) | [Harmony](http://news.gallup.com/businessjournal/676/harmony.aspx) | [Input](http://news.gallup.com/businessjournal/688/input.aspx) | [Communication](http://news.gallup.com/businessjournal/643/communication.aspx)
 
-Taylor Barnett-Torabi is a Staff Product Manager at Netlify, where she focuses on empowering developers to easily deploy their ideas to the web. Her passion lies in building great developer experiences, emphasizing user empathy within product, marketing, documentation, and other community-driven initiatives. 
+Taylor Barnett-Torabi is a Staff Product Manager at [Netlify](https://netlify.com), where she focuses on empowering developers to easily deploy their ideas to the web. Her passion lies in building great developer experiences, emphasizing user empathy within product, marketing, documentation, and other community-driven initiatives. 
 
 Before joining Netlify, Taylor spent nearly a decade in developer relations at various data and API developer-focused startups, including PlanetScale, Transposit, Stoplight, and Keen IO, building on her foundation in software engineering to foster more developer-friendly tools and platforms. She has worked on projects across the entire business, from developer community and open source projects to SDKs, documentation, products, and go-to-market efforts. 
 
